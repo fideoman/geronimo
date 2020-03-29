@@ -26,7 +26,7 @@ import org.apache.xmlbeans.XmlObject;
 /**
  *
  *
- * @version $Rev$ $Date$
+ * @version $Rev: 1213810 $ $Date: 2011-12-14 02:00:08 +0800 (Wed, 14 Dec 2011) $
  */
 public abstract class DConfigBeanRootSupport extends DConfigBeanSupport implements DConfigBeanRoot {
 

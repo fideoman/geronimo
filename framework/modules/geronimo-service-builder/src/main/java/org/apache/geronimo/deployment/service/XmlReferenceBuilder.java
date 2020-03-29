@@ -24,7 +24,7 @@ import org.apache.xmlbeans.XmlObject;
 import org.osgi.framework.Bundle;
 
 /**
- * @version $Rev$ $Date$
+ * @version $Rev: 809078 $ $Date: 2009-08-29 08:51:12 +0800 (Sat, 29 Aug 2009) $
  */
 public interface XmlReferenceBuilder {
 

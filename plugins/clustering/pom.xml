@@ -63,7 +63,7 @@
             <id>all</id>
 
             <activation>
-                <activeByDefault>true</activeByDefault>
+                <activeByDefault>false</activeByDefault>
             </activation>
 
             <modules>

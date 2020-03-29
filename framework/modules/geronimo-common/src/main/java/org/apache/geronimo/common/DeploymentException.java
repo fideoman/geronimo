@@ -108,7 +108,7 @@ public class DeploymentException extends Exception {
         return rootEx;
     }
 
-    private static class CleanseException extends DeploymentException {
+    public static class CleanseException extends DeploymentException {
         private final String toString;
         
         public CleanseException(String message, String toString) {

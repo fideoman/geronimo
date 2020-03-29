@@ -77,7 +77,7 @@
         <profile>
             <id>default</id>
             <activation>
-                <activeByDefault>true</activeByDefault>
+                <activeByDefault>false</activeByDefault>
             </activation>
             <modules>
                 <!--<module>geronimo-jetty8-minimal</module>

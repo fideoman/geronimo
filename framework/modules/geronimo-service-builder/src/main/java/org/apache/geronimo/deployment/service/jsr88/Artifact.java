@@ -25,7 +25,7 @@ import org.apache.xmlbeans.XmlBeans;
  * Represents an artifactType (e.g. a dependency or configId element) in a
  * Geronimo deployment plan.
  *
- * @version $Rev$ $Date$
+ * @version $Rev: 817108 $ $Date: 2009-09-21 05:49:12 +0800 (Mon, 21 Sep 2009) $
  */
 public class Artifact extends XmlBeanSupport {
     static final SchemaTypeLoader SCHEMA_TYPE_LOADER = XmlBeans.typeLoaderForClassLoader(ArtifactType.class.getClassLoader());

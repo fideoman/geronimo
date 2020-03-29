@@ -303,7 +303,7 @@
                     <name>framework</name>
                     <value>equinox</value>
                 </property>
-                <activeByDefault>true</activeByDefault>
+                <activeByDefault>false</activeByDefault>
             </activation>
 
             <dependencies>

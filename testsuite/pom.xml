@@ -77,6 +77,7 @@
     -->
 
     <properties>
+        <bootClassPath></bootClassPath>
         <!--
         NOTE: The default assembly is jetty, so exclude any tomcat tests by
               default. Profiles below will set this based on the assemblyId.
@@ -282,7 +283,7 @@
     <distributionManagement>
         <site>
             <id>website</id>
-            <url>scp://people.apache.org/www/people.apache.org/builds/geronimo/server/testsuite/${buildNumber}</url>
+            <url>scp://people.apache.org/www/people.apache.org/builds/geronimo/server/testsuite/3.0.2-SNAPSHOT</url>
         </site>
     </distributionManagement>
 
@@ -393,7 +394,7 @@
         <profile>
             <id>firefox</id>
             <activation>
-                <activeByDefault>true</activeByDefault>
+                <activeByDefault>false</activeByDefault>
             </activation>
             <properties>
                 <browser>*firefox</browser>
@@ -403,12 +404,6 @@
             <id>iexplore</id>
             <properties>
                 <browser>*iexplore</browser>
-            </properties>
-        </profile>
-        <profile>
-            <id>otherbrowser</id>
-            <properties>
-                <browser>${browserPath}</browser>
             </properties>
         </profile>
 

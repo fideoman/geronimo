@@ -35,7 +35,7 @@ import org.apache.xmlbeans.XmlObject;
 import org.osgi.framework.Bundle;
 
 /**
- * @version $Rev$ $Date$
+ * @version $Rev: 993185 $ $Date: 2010-09-07 08:34:46 +0800 (Tue, 07 Sep 2010) $
  */
 public class JavaBeanXmlAttributeBuilder implements XmlAttributeBuilder {
 

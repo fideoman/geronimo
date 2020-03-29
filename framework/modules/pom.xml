@@ -70,7 +70,7 @@
         <profile>
             <id>default</id>
             <activation>
-                <activeByDefault>true</activeByDefault>
+                <activeByDefault>false</activeByDefault>
             </activation>
             <modules>
                 <!-- not needed for car-maven-plugin -->

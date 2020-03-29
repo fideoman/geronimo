@@ -1961,7 +1961,7 @@ only found in cxf
                 </plugin>
 
                 <plugin>
-                    <groupId>org.codehaus.mojo.jspc</groupId>
+                    <groupId>org.codehaus.mojo</groupId>
                     <artifactId>jspc-maven-plugin</artifactId>
                     <!--<version>2.0-alpha-2</version>-->
                     <executions>
@@ -2308,6 +2308,20 @@ only found in cxf
 
     <pluginRepositories>
         <!-- required for clean build unless you want to bootstrap the car-maven-plugin -->
+		<pluginRepository>
+            <id>central</id>
+            <name>Maven Central</name>
+            <url>https://repo1.maven.org/maven2</url>
+            <layout>default</layout>
+            <snapshots>
+                <enabled>false</enabled>
+                <checksumPolicy>ignore</checksumPolicy>
+            </snapshots>
+            <releases>
+                <enabled>true</enabled>
+                <checksumPolicy>ignore</checksumPolicy>
+            </releases>
+        </pluginRepository>
         <pluginRepository>
             <id>apache.snapshots</id>
             <name>Apache Snapshots Repository</name>
@@ -2315,25 +2329,40 @@ only found in cxf
             <layout>default</layout>
             <snapshots>
                 <enabled>true</enabled>
-                <updatePolicy>daily</updatePolicy>
                 <checksumPolicy>ignore</checksumPolicy>
             </snapshots>
             <releases>
                 <enabled>false</enabled>
+                <checksumPolicy>ignore</checksumPolicy>
             </releases>
         </pluginRepository>
     </pluginRepositories>
     
     <repositories>
+	    <repository>
+            <id>central</id>
+            <name>Maven Central</name>
+            <releases>
+                <enabled>true</enabled>
+                <checksumPolicy>ignore</checksumPolicy>
+            </releases>
+            <snapshots>
+                <enabled>false</enabled>
+                <checksumPolicy>ignore</checksumPolicy>
+            </snapshots>
+            <url>https://repo1.maven.org/maven2</url>
+        </repository>
         <repository>
             <id>geronimo-svn-repo</id>
             <name>Geronimo 3rd Party libraries</name>
             <url>http://svn.apache.org/repos/asf/geronimo/repo/</url>
             <releases>
                 <enabled>true</enabled>
+                <checksumPolicy>ignore</checksumPolicy>
             </releases>
             <snapshots>
                 <enabled>false</enabled>
+                <checksumPolicy>ignore</checksumPolicy>
             </snapshots>
         </repository>
     </repositories>      
@@ -2511,6 +2540,7 @@ only found in cxf
                     <plugin>
                         <groupId>org.apache.maven.plugins</groupId>
                         <artifactId>maven-eclipse-plugin</artifactId>
+                        <version>2.10</version>
                         <executions>
                             <execution>
                                 <phase>validate</phase>

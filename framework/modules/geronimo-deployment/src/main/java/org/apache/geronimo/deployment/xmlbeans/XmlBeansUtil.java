@@ -16,30 +16,17 @@
  */
 package org.apache.geronimo.deployment.xmlbeans;
 
+import org.apache.xmlbeans.*;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.w3c.dom.Element;
+
+import javax.xml.namespace.QName;
 import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.URL;
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Collections;
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.List;
-import java.util.Map;
-import java.util.Set;
-
-import javax.xml.namespace.QName;
-
-import org.apache.xmlbeans.QNameSet;
-import org.apache.xmlbeans.SchemaType;
-import org.apache.xmlbeans.XmlException;
-import org.apache.xmlbeans.XmlObject;
-import org.apache.xmlbeans.XmlOptions;
-import org.apache.xmlbeans.XmlValidationError;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-import org.w3c.dom.Element;
+import java.util.*;
 
 /**
  * @version $Rev$ $Date$

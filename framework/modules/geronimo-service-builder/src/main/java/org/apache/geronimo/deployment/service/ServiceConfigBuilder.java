@@ -69,7 +69,7 @@ import org.apache.xmlbeans.XmlObject;
 import org.osgi.framework.BundleContext;
 
 /**
- * @version $Rev$ $Date$
+ * @version $Rev: 900657 $ $Date: 2010-01-19 11:39:45 +0800 (Tue, 19 Jan 2010) $
  */
 @GBean(j2eeType = "ConfigBuilder")
 public class ServiceConfigBuilder implements ConfigurationBuilder, GBeanLifecycle {

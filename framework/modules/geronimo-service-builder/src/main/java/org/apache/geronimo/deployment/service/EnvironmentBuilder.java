@@ -48,7 +48,7 @@ import org.apache.xmlbeans.XmlOptions;
 import org.osgi.framework.Bundle;
 
 /**
- * @version $Rev$ $Date$
+ * @version $Rev: 1167500 $ $Date: 2011-09-10 19:59:51 +0800 (Sat, 10 Sep 2011) $
  */
 public class EnvironmentBuilder extends PropertyEditorSupport implements XmlAttributeBuilder {
     private final static QName QNAME = EnvironmentDocument.type.getDocumentElementName();

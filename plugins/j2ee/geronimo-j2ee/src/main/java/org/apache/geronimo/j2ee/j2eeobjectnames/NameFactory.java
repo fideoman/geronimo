@@ -16,11 +16,11 @@
  */
 package org.apache.geronimo.j2ee.j2eeobjectnames;
 
-import java.util.Map;
-import java.util.HashMap;
-
 import org.apache.geronimo.gbean.AbstractNameQuery;
 import org.apache.geronimo.kernel.repository.Artifact;
+
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * @version $Rev:385692 $ $Date$
