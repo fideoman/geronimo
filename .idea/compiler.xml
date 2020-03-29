@@ -16,11 +16,12 @@
         <module name="openwebbeans-deployer" />
         <module name="remote-deploy-jetty" />
         <module name="test-2.5-servlets" />
-        <module name="geronimo-aries-builder" />
+        <module name="CalculatorServletBundle_A" />
         <module name="Resolution-Optional-WAB" />
         <module name="geronimo-service-builder" />
         <module name="geronimo-openejb-clustering-builder-wadi" />
         <module name="jms-ejb" />
+        <module name="security-ejb-ejb" />
         <module name="jpa-ear" />
         <module name="agent-car-jmx" />
         <module name="openjpa2 (1) (org.apache.geronimo.configs)" />
@@ -32,10 +33,8 @@
         <module name="plugin-console-jetty" />
         <module name="geronimo-activemq-management" />
         <module name="agent-sql" />
-        <module name="geronimo-naming-builder" />
         <module name="client-transaction-1_6" />
-        <module name="jaxb-ejb" />
-        <module name="jsf-eba" />
+        <module name="ca-helper-jetty" />
         <module name="debugviews-console-jetty" />
         <module name="jaxws-war-sec" />
         <module name="mail-wab" />
@@ -44,8 +43,9 @@
         <module name="agent-jmx" />
         <module name="jaxws-ejb-sec" />
         <module name="geronimo-jetty8-javaee6" />
+        <module name="geronimo-aries-shell" />
         <module name="webservices-axis2" />
-        <module name="geronimo-clustering" />
+        <module name="geronimo-plugin-archetype" />
         <module name="corba-helloworld-war" />
         <module name="jmx-security" />
         <module name="ejb3.1lite-test" />
@@ -53,67 +53,72 @@
         <module name="ds-wab" />
         <module name="sec-ear" />
         <module name="ejb-impl" />
-        <module name="console-core" />
+        <module name="cxf-ejb" />
         <module name="mconsole-jetty" />
+        <module name="openejb-console-tomcat" />
         <module name="jetty8-deployer" />
-        <module name="axis2-ejb-deployer" />
-        <module name="deploy" />
         <module name="geronimo-axis-builder" />
         <module name="geronimo-jetty8-builder" />
+        <module name="ejb-ear" />
         <module name="ejb-war" />
-        <module name="catalog-war" />
-        <module name="geronimo-kernel" />
+        <module name="geronimo-core" />
+        <module name="geronimo-system" />
         <module name="geronimo-corba" />
         <module name="geronimo-mejb" />
-        <module name="ejb-api" />
         <module name="openejb-deployer" />
         <module name="geronimo-tomcat7-javaee6" />
-        <module name="geronimo-core" />
-        <module name="corba-helloworld-ear" />
+        <module name="web-references-ear" />
+        <module name="geronimo-corba-builder" />
+        <module name="server-security-config" />
         <module name="uddi-jetty-server" />
         <module name="ejb-wab" />
-        <module name="web-references-ear" />
-        <module name="geronimo-myfaces" />
+        <module name="ejb-ejb" />
+        <module name="cxf-ejb-deployer" />
         <module name="test-rar-j2ee_1.4" />
         <module name="test-rar-j2ee_1.3" />
         <module name="geronimo-shell" />
         <module name="welcome-tomcat" />
         <module name="geronimo-jmx-remoting" />
+        <module name="geronimo-remote-deploy" />
         <module name="wink-tomcat-server" />
         <module name="test-war-j2ee_1.4" />
         <module name="test-war-j2ee_1.3" />
         <module name="stax-ejb" />
-        <module name="url-binding-tests" />
+        <module name="shutdown" />
         <module name="test-2.1-jsps" />
         <module name="geronimo-cxf-builder" />
         <module name="geronimo-tomcat7-builder" />
-        <module name="jsp-taglib" />
-        <module name="geronimo-bval" />
+        <module name="axis-deployer" />
+        <module name="geronimo-crypto" />
         <module name="console-tomcat (2) (org.apache.geronimo.plugins)" />
         <module name="geronimo-ca-helper" />
+        <module name="uddi-tomcat" />
         <module name="RequireBundle-eba" />
         <module name="geronimo-connector-builder-1_6" />
         <module name="jndiEJB-test" />
+        <module name="beanvalidation-ejb-ear" />
         <module name="geronimo-deploy-config" />
         <module name="geronimo-transformer" />
-        <module name="j2ee-system-it1" />
         <module name="jaxws-tools" />
         <module name="activemq-console-tomcat" />
         <module name="testsupport-common" />
         <module name="geronimo-axis" />
         <module name="buildsupport-maven-plugin" />
+        <module name="wsa-ejb" />
         <module name="geronimo-deploy-jsr88" />
         <module name="geronimo-jetty8-javaee6-web" />
         <module name="console-ear" />
         <module name="geronimo-naming" />
-        <module name="tomcat7-clustering-wadi" />
+        <module name="j2ee-system" />
         <module name="javaee6-web-jetty" />
         <module name="geronimo-openjpa2" />
         <module name="bundle-recorder" />
         <module name="web-references-war" />
+        <module name="hot-deployer" />
         <module name="javaee6-web-tomcat" />
-        <module name="console-jetty (1) (org.apache.geronimo.plugingroups)" />
+        <module name="jaxws-war" />
         <module name="geronimo-bundle-recorder" />
+        <module name="ejb" />
         <module name="jpa-wab" />
         <module name="geronimo-j2ee-builder" />
         <module name="ca-helper-tomcat" />
@@ -125,13 +130,15 @@
         <module name="wadi-clustering" />
         <module name="test-tomcat" />
         <module name="wink (2) (org.apache.geronimo.configs)" />
+        <module name="geronimo-cxf-ejb" />
         <module name="webbean-jpa-test" />
         <module name="provider-common" />
         <module name="geronimo-plugin" />
+        <module name="web-tomcat-server" />
+        <module name="geronimo-cxf-ejb-builder" />
         <module name="web-forward-war-2" />
         <module name="activemq-broker-blueprint" />
         <module name="provider-ejb" />
-        <module name="openejb-corba-deployer" />
         <module name="axis2-ejb" />
         <module name="console-jetty-server" />
         <module name="clustering (1) (org.apache.geronimo.configs)" />
@@ -142,17 +149,15 @@
         <module name="geronimo-converter" />
         <module name="commonannotation1.1-test" />
         <module name="geronimo-j2ee-schema" />
-        <module name="appname-war" />
         <module name="webbean-ejb-test" />
-        <module name="geronimo-deploy-jsr88-full" />
         <module name="di1.0-test" />
-        <module name="geronimo-assembly-archetype" />
         <module name="wab-jetty" />
         <module name="jasper (1) (org.apache.geronimo.configs)" />
         <module name="javaee6-tomcat" />
         <module name="myfaces (1) (org.apache.geronimo.configs)" />
-        <module name="manifestcp-war-jar" />
         <module name="geronimo-farm" />
+        <module name="tomcat7-clustering-builder-wadi" />
+        <module name="transaction-1_6" />
         <module name="geronimo-shell-diagnose" />
         <module name="geronimo-test-ddbean" />
         <module name="geronimo-web" />
@@ -163,13 +168,14 @@
         <module name="debugviews-portlets" />
         <module name="geronimo-deploy-farm" />
         <module name="jpa-pu" />
+        <module name="el2.2-test" />
         <module name="myfaces-deployer" />
-        <module name="ca-helper-jetty" />
+        <module name="agent-car-ejb" />
         <module name="activemq-ra" />
-        <module name="plugin-farm" />
         <module name="geronimo-plugin-farm-node" />
         <module name="activemq-jetty-server" />
         <module name="geronimo-axis2" />
+        <module name="j2ee-deployer" />
         <module name="wsa-ear" />
         <module name="test-ejb-j2ee_1.4" />
         <module name="test-ejb-j2ee_1.3" />
@@ -185,16 +191,17 @@
         <module name="geronimo-aspectj" />
         <module name="activemq-portlets" />
         <module name="sysdb-portlets" />
-        <module name="activemq-console-jetty" />
         <module name="sec-war" />
         <module name="jaxws (1) (org.apache.geronimo.testsuite)" />
-        <module name="jaxws-ejb" />
         <module name="client (1) (org.apache.geronimo.configs)" />
         <module name="corba-helloworld-ejb" />
         <module name="jasper-deployer" />
         <module name="tomcat7" />
         <module name="testsuite-maven-plugin" />
+        <module name="ds-db" />
+        <module name="test-ear-j2ee_1.3" />
         <module name="mtom-ejb" />
+        <module name="corba-mytime-war" />
         <module name="geronimo-web-2.5-builder" />
         <module name="console-filter" />
         <module name="mejb (1) (org.apache.geronimo.configs)" />
@@ -202,98 +209,93 @@
         <module name="geronimo-jasper-builder" />
         <module name="webbean-servlet-test" />
         <module name="geronimo-jasper" />
-        <module name="ejb-ejb" />
+        <module name="tomcat7-clustering-wadi" />
         <module name="fragment3" />
-        <module name="geronimo-system" />
+        <module name="fragment2" />
         <module name="shutdown (1) (org.apache.geronimo.testsuite)" />
         <module name="geronimo-openejb" />
-        <module name="server-security-config" />
-        <module name="geronimo-crypto" />
+        <module name="aries (1) (org.apache.geronimo.configs)" />
+        <module name="conversation-test" />
         <module name="openejb-clustering-builder-wadi" />
-        <module name="corba-helloworld-client" />
+        <module name="catalog-ejb" />
         <module name="jaxb-client" />
-        <module name="cxf-ejb" />
-        <module name="geronimo-jaxws-sun-tools" />
+        <module name="rmi-naming" />
         <module name="geronimo-connector-server" />
         <module name="geronimo-management" />
         <module name="car-maven-plugin" />
         <module name="jms" />
         <module name="corba-mytime-ejb" />
-        <module name="aries (1) (org.apache.geronimo.configs)" />
+        <module name="corba-marshal-ear" />
         <module name="jaxws-partial" />
         <module name="geronimo-tomcat7-clustering-wadi" />
         <module name="geronimo-axis2-builder" />
         <module name="Resolution-Optional-eba" />
         <module name="openejb-client" />
-        <module name="jsf-taglib" />
-        <module name="sysdb-console-jetty" />
+        <module name="aspectj (1) (org.apache.geronimo.configs)" />
         <module name="openwebbeans (1) (org.apache.geronimo.configs)" />
         <module name="geronimo-tomcat7-javaee6-web" />
-        <module name="axis-deployer" />
+        <module name="geronimo-myfaces-builder" />
         <module name="geronimo-property-plugin" />
         <module name="console-portal-driver" />
+        <module name="geronimo-framework" />
         <module name="plugin-farm-datasource" />
         <module name="security-ejb-ear" />
         <module name="jaxws-ejb-deployer" />
-        <module name="jaxr-ejb" />
         <module name="jaxws-client" />
         <module name="geronimo-derby" />
-        <module name="geronimo-webservices" />
+        <module name="mconsole-ds" />
         <module name="geronimo-wab" />
-        <module name="manifestcp-ear" />
         <module name="wsa-test-war" />
         <module name="manifestcp-ejb" />
-        <module name="fragment2" />
+        <module name="fragment1" />
         <module name="jca-cms-ear" />
+        <module name="jaxws-deployer" />
         <module name="geronimo-persistence-jpa20" />
         <module name="j2ee-server" />
         <module name="procrun" />
         <module name="jsf2.0-test" />
         <module name="console-base-portlets" />
-        <module name="custom-impl" />
         <module name="geronimo-gbean-deployer-bootstrap" />
-        <module name="stax-client" />
+        <module name="console-core" />
         <module name="testsupport-selenium" />
         <module name="geronimo-connector-1_6" />
+        <module name="provider-test-war" />
+        <module name="eba-tomcat" />
         <module name="geronimo-bval-builder" />
-        <module name="jndi-infer-test" />
         <module name="geronimo-cli" />
+        <module name="test-tld-jar" />
         <module name="testsupport-packaging" />
         <module name="plugin-console-tomcat" />
         <module name="geronimo-wink" />
-        <module name="stax-war" />
-        <module name="interceptors1.1-test" />
-        <module name="geronimo-myfaces-builder" />
         <module name="deployment-tests" />
-        <module name="jsr88-cli" />
         <module name="jta1.1-test" />
         <module name="geronimo-jaxws" />
         <module name="beanvalidation-web-test" />
-        <module name="agent-car-ejb" />
-        <module name="rmi-naming" />
+        <module name="geronimo-deploy-jsr88-full" />
         <module name="jaxr-war" />
         <module name="test-war-javaee_5" />
         <module name="test-security" />
+        <module name="metadatageneration-it3" />
         <module name="geronimo-yoko" />
         <module name="asynEJB-test" />
         <module name="sysdb-console-tomcat" />
         <module name="client-corba-yoko" />
         <module name="manifestcp-jar2" />
         <module name="test-ejb-javaee_5" />
-        <module name="fragment1" />
+        <module name="persistence" />
+        <module name="client-deployer" />
         <module name="geronimo-pluto" />
         <module name="framework (1) (org.apache.geronimo.framework.plugingroups)" />
         <module name="client-security" />
-        <module name="welcome-jetty-server" />
         <module name="geronimo-plugin-farm" />
         <module name="corba-marshal-client" />
         <module name="corba-server" />
-        <module name="openejb-console-tomcat" />
+        <module name="manifestcp-ear" />
         <module name="geronimo-common" />
-        <module name="db-connectors" />
+        <module name="jaxws-ejb" />
         <module name="eba-jetty" />
         <module name="test-ear-j2ee_1.4" />
-        <module name="test-ear-j2ee_1.3" />
+        <module name="manifestcp-war-jar" />
         <module name="uddi-war-repackage" />
         <module name="geronimo-jetty8" />
         <module name="agent-jar" />
@@ -301,194 +303,192 @@
         <module name="custom-eba" />
         <module name="console-jetty (2) (org.apache.geronimo.plugins)" />
         <module name="geronimo-security-builder" />
-        <module name="geronimo-hook" />
         <module name="sec-client-tests" />
         <module name="jpa-ejb" />
-        <module name="geronimo-corba-builder" />
-        <module name="simple-eba" />
+        <module name="geronimo-aries-builder" />
+        <module name="console-tomcat-server" />
         <module name="custom-api" />
         <module name="javamail (1) (org.apache.geronimo.configs)" />
         <module name="servlet3.0-security-test" />
-        <module name="geronimo-remote-deploy" />
+        <module name="interceptors1.1-test" />
         <module name="mtom-test-war" />
         <module name="tomcat7-deployer" />
-        <module name="mtom-war" />
-        <module name="jaxws-sun-tools" />
+        <module name="console-jetty (1) (org.apache.geronimo.plugingroups)" />
         <module name="geronimo-axis2-ejb" />
-        <module name="provider-ear" />
+        <module name="stax-client" />
         <module name="CalculatorBeanBundle_C" />
         <module name="CalculatorBeanBundle_B" />
         <module name="axis-jetty-server" />
-        <module name="geronimo-activemq-blueprint" />
+        <module name="geronimo-jaxws-sun-tools" />
         <module name="servlet3.0-test-war" />
         <module name="geronimo-aries-jpa" />
-        <module name="geronimo-aries-shell" />
-        <module name="farming" />
+        <module name="geronimo-obr" />
+        <module name="jaxb-ejb" />
+        <module name="plugin-farm" />
         <module name="jsr88-war-configurer" />
-        <module name="geronimo-hot-deploy" />
         <module name="jetty-server" />
         <module name="geronimo-transaction-1_6" />
+        <module name="appname-ear" />
         <module name="axis2-deployer" />
-        <module name="metadatageneration-it3" />
+        <module name="axis2-ejb-deployer" />
         <module name="jsr88-deploymentfactory" />
+        <module name="geronimo-jaxws-ejb-builder" />
         <module name="sec-ejb" />
         <module name="appname-client" />
-        <module name="pluto-support" />
         <module name="jsp2.2-test" />
         <module name="manifestcp-jar" />
+        <module name="web-extender" />
         <module name="geronimo-persistence-jpa20-builder" />
         <module name="geronimo-openejb-server" />
-        <module name="geronimo-jetty8-clustering-wadi" />
+        <module name="geronimo-myfaces" />
         <module name="jaxws-rest-war" />
         <module name="geronimo-jdbc" />
         <module name="jms-war" />
-        <module name="sharedlib (2) (org.apache.geronimo.configs)" />
         <module name="mail-eba" />
         <module name="clientgroup" />
-        <module name="cxf-deployer" />
-        <module name="test-tld-jar" />
+        <module name="deploy" />
         <module name="geronimo-openwebbeans" />
-        <module name="geronimo-web-extender" />
+        <module name="plugin-farm-member" />
+        <module name="provider-ear" />
         <module name="system-database (2) (org.apache.geronimo.configs)" />
         <module name="jpa-eba" />
         <module name="mconsole-war" />
         <module name="mconsole-tomcat" />
         <module name="j2ee-system-it2" />
-        <module name="web-extender" />
+        <module name="j2ee-system-it1" />
         <module name="advanced" />
-        <module name="beanvalidation-ejb-war" />
         <module name="managedbean1.0-test" />
-        <module name="openejb-console-jetty" />
         <module name="security-ejb-war" />
         <module name="test-tld-war" />
         <module name="web-references-ejb" />
         <module name="uddi-jetty" />
-        <module name="ejb" />
+        <module name="jaxr-ejb" />
         <module name="web-forward-ear" />
         <module name="geronimo-deploy-tool" />
         <module name="geronimo-jetty8-minimal" />
         <module name="webservices-common" />
-        <module name="plancreator-console-jetty" />
+        <module name="appname-war" />
         <module name="geronimo-activemq-ra" />
         <module name="sec-client" />
-        <module name="j2ee-security" />
         <module name="debugviews-console-tomcat" />
-        <module name="tomcat7-no-ha" />
+        <module name="wsa-war" />
+        <module name="uddi-db" />
         <module name="geronimo-openejb-builder" />
-        <module name="cxf-ejb-deployer" />
-        <module name="beanvalidation-ejb-ejb" />
-        <module name="hot-deployer" />
-        <module name="basic" />
+        <module name="corba-helloworld-ear" />
+        <module name="geronimo-assembly-archetype" />
+        <module name="jsp-taglib" />
+        <module name="sharedlib-extender" />
         <module name="ejb-eba" />
+        <module name="geronimo-client" />
         <module name="web-jetty-server" />
         <module name="saaj-client" />
         <module name="mtom-ear" />
-        <module name="provider-test-war" />
+        <module name="online-deployer" />
+        <module name="geronimo-webservices" />
         <module name="geronimo-security" />
         <module name="karaf-framework" />
-        <module name="client-deployer" />
-        <module name="ejb-ear" />
+        <module name="sysdb-console-jetty" />
+        <module name="jaxws-sun-tools" />
         <module name="jsr88-jar-configurer" />
+        <module name="corba-mytime-ear" />
         <module name="geronimo-deployment" />
-        <module name="geronimo-jaxws-ejb-builder" />
+        <module name="corba-helloworld-client" />
         <module name="test-security-basic-authentication" />
-        <module name="geronimo-framework" />
+        <module name="jsr88-cli" />
         <module name="mconsole-jetty-server" />
         <module name="plancreator-console-tomcat" />
         <module name="geronimo-aries" />
         <module name="geronimo-shell-base" />
-        <module name="persistence" />
-        <module name="plugin-farm-member" />
-        <module name="conversation-test" />
+        <module name="geronimo-hot-deploy" />
+        <module name="farming" />
+        <module name="stax-war" />
         <module name="geronimo-aries-resolver" />
         <module name="test-jetty" />
-        <module name="corba-mytime-ear" />
-        <module name="j2ee-system" />
-        <module name="console-tomcat-server" />
+        <module name="ejb-api" />
+        <module name="welcome-jetty-server" />
         <module name="openejb-portlets" />
-        <module name="geronimo-obr" />
+        <module name="j2ee-security" />
         <module name="openejb-clustering-wadi" />
         <module name="geronimo-jaxws-builder" />
         <module name="javaee6-jetty" />
-        <module name="geronimo-cxf-ejb-builder" />
+        <module name="geronimo-bval" />
         <module name="ds-eba" />
         <module name="jetty8-clustering-wadi" />
         <module name="geronimo-gbean-deployer" />
-        <module name="transaction-1_6" />
+        <module name="connector-deployer-1_6" />
+        <module name="catalog-war" />
         <module name="jsp-wab" />
-        <module name="geronimo-client" />
-        <module name="geronimo-axis2-ejb-builder" />
+        <module name="custom-impl" />
+        <module name="mtom-war" />
         <module name="plugin-portlets" />
-        <module name="uddi-db" />
+        <module name="pluto-support" />
         <module name="javaee-builder-support" />
-        <module name="geronimo-mail" />
+        <module name="beanvalidation-ejb-war" />
         <module name="persistence-jpa20-deployer" />
         <module name="geronimo-tomcat7" />
         <module name="jaxrpc-ejb" />
         <module name="aries-deployer" />
-        <module name="metadatatest-it4" />
         <module name="jsp-eba" />
-        <module name="ds-db" />
-        <module name="corba-mytime-war" />
-        <module name="CalculatorServletBundle_A" />
+        <module name="plancreator-console-jetty" />
+        <module name="geronimo-naming-builder" />
+        <module name="simple-eba" />
         <module name="corba-marshal-ejb" />
         <module name="geronimo-main" />
-        <module name="wsa-war" />
+        <module name="metadatatest-it4" />
         <module name="restful-test" />
         <module name="openejb (1) (org.apache.geronimo.configs)" />
         <module name="plugin" />
-        <module name="security-ejb-ejb" />
+        <module name="cxf-deployer" />
         <module name="jaxrpc-jaxws-war" />
+        <module name="geronimo-j2ee" />
         <module name="test-myfaces" />
-        <module name="axis (1) (org.apache.geronimo.configs)" />
-        <module name="jaxws-deployer" />
+        <module name="geronimo-mail" />
+        <module name="openejb-corba-deployer" />
         <module name="bundle-inject-test" />
         <module name="geronimo-wink-builder" />
         <module name="remote-deploy-tomcat" />
-        <module name="web-tomcat-server" />
-        <module name="j2ee-deployer" />
+        <module name="geronimo-activemq-blueprint" />
+        <module name="geronimo-hook" />
         <module name="client-system" />
         <module name="custom-wab" />
         <module name="welcome-tomcat-server" />
-        <module name="geronimo-cxf-ejb" />
+        <module name="jndi-infer-test" />
         <module name="geronimo-sharedlib" />
-        <module name="uddi-tomcat" />
-        <module name="jaxws-war" />
+        <module name="sharedlib (2) (org.apache.geronimo.configs)" />
+        <module name="geronimo-web-extender" />
         <module name="console-tomcat (1) (org.apache.geronimo.plugingroups)" />
         <module name="geronimo-tomcat7-minimal" />
         <module name="j2ee-corba-yoko" />
         <module name="jetty8-clustering-builder-wadi" />
         <module name="web-forward-war-1" />
-        <module name="connector-deployer-1_6" />
+        <module name="geronimo-clustering" />
         <module name="servlet3.0-test-jar" />
         <module name="manifestcp-war" />
         <module name="geronimo-maven-plugin" />
         <module name="provider-war" />
-        <module name="el2.2-test" />
-        <module name="appname-ear" />
+        <module name="activemq-console-jetty" />
+        <module name="geronimo-jetty8-clustering-wadi" />
         <module name="geronimo-tomcat7-clustering-builder-wadi" />
-        <module name="wsa-ejb" />
-        <module name="geronimo-j2ee" />
+        <module name="beanvalidation-ejb-ejb" />
+        <module name="geronimo-kernel" />
         <module name="geronimo-deploy-jsr88-bootstrapper" />
         <module name="jca-cms-war" />
         <module name="geronimo-openwebbeans-builder" />
-        <module name="online-deployer" />
+        <module name="geronimo-axis2-ejb-builder" />
         <module name="axis2 (1) (org.apache.geronimo.configs)" />
-        <module name="tomcat7-clustering-builder-wadi" />
-        <module name="shutdown" />
+        <module name="tomcat7-no-ha" />
+        <module name="jsf-eba" />
         <module name="geronimo-osgi-plugin" />
-        <module name="beanvalidation-ejb-ear" />
-        <module name="eba-tomcat" />
+        <module name="basic" />
+        <module name="jsf-taglib" />
         <module name="cxf (1) (org.apache.geronimo.configs)" />
         <module name="geronimo-jetty8-clustering-builder-wadi" />
-        <module name="sharedlib-extender" />
-        <module name="catalog-ejb" />
-        <module name="aspectj (1) (org.apache.geronimo.configs)" />
+        <module name="openejb-console-jetty" />
+        <module name="axis (1) (org.apache.geronimo.configs)" />
         <module name="geronimo-cxf" />
         <module name="simple-api" />
-        <module name="mconsole-ds" />
-        <module name="corba-marshal-ear" />
-        <module name="geronimo-plugin-archetype" />
+        <module name="url-binding-tests" />
+        <module name="db-connectors" />
       </profile>
       <profile name="Annotation profile for Geronimo" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -499,585 +499,585 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="activemq" target="1.6" />
-      <module name="activemq-broker-blueprint" target="1.6" />
-      <module name="activemq-console-jetty" target="1.6" />
-      <module name="activemq-console-tomcat" target="1.6" />
-      <module name="activemq-jetty-server" target="1.6" />
-      <module name="activemq-portlets" target="1.6" />
-      <module name="activemq-ra" target="1.6" />
-      <module name="advanced" target="1.6" />
-      <module name="agent-car-ejb" target="1.6" />
-      <module name="agent-car-jmx" target="1.6" />
-      <module name="agent-ds" target="1.6" />
-      <module name="agent-ejb" target="1.6" />
-      <module name="agent-jar" target="1.6" />
-      <module name="agent-jmx" target="1.6" />
-      <module name="agent-sql" target="1.6" />
-      <module name="appname-client" target="1.6" />
-      <module name="appname-ear" target="1.6" />
-      <module name="appname-tests" target="1.6" />
-      <module name="appname-war" target="1.6" />
-      <module name="aries (1) (org.apache.geronimo.configs)" target="1.6" />
-      <module name="aries (2) (org.apache.geronimo.plugins)" target="1.6" />
-      <module name="aries-deployer" target="1.6" />
-      <module name="aries-testsuite" target="1.6" />
-      <module name="aspectj (1) (org.apache.geronimo.configs)" target="1.6" />
-      <module name="aspectj (2) (org.apache.geronimo.plugins)" target="1.6" />
-      <module name="assemblies (1) (org.apache.geronimo.assemblies)" target="1.6" />
-      <module name="assemblies (2) (org.apache.geronimo.framework.assemblies)" target="1.6" />
-      <module name="asynEJB-test" target="1.6" />
-      <module name="axis (1) (org.apache.geronimo.configs)" target="1.6" />
-      <module name="axis (2) (org.apache.geronimo.plugins)" target="1.6" />
-      <module name="axis-deployer" target="1.6" />
-      <module name="axis-jetty-server" target="1.6" />
-      <module name="axis2 (1) (org.apache.geronimo.configs)" target="1.6" />
-      <module name="axis2 (2) (org.apache.geronimo.plugins)" target="1.6" />
-      <module name="axis2-deployer" target="1.6" />
-      <module name="axis2-ejb" target="1.6" />
-      <module name="axis2-ejb-deployer" target="1.6" />
-      <module name="basic" target="1.6" />
-      <module name="beanvalidation-ejb-ear" target="1.6" />
-      <module name="beanvalidation-ejb-ejb" target="1.6" />
-      <module name="beanvalidation-ejb-test" target="1.6" />
-      <module name="beanvalidation-ejb-war" target="1.6" />
-      <module name="beanvalidation-tests" target="1.6" />
-      <module name="beanvalidation-web-test" target="1.6" />
-      <module name="buildsupport" target="1.6" />
-      <module name="buildsupport-maven-plugin" target="1.6" />
-      <module name="bundle-inject-test" target="1.6" />
-      <module name="bundle-recorder" target="1.6" />
-      <module name="bval" target="1.6" />
-      <module name="bval-deployer" target="1.6" />
-      <module name="ca-helper" target="1.6" />
-      <module name="ca-helper-jetty" target="1.6" />
-      <module name="ca-helper-tomcat" target="1.6" />
-      <module name="CalculatorBeanBundle_B" target="1.6" />
-      <module name="CalculatorBeanBundle_C" target="1.6" />
-      <module name="CalculatorServletBundle_A" target="1.6" />
-      <module name="car-maven-plugin" target="1.6" />
-      <module name="catalog-ear" target="1.6" />
-      <module name="catalog-ejb" target="1.6" />
-      <module name="catalog-war" target="1.6" />
-      <module name="client (1) (org.apache.geronimo.configs)" target="1.6" />
-      <module name="client (2) (org.apache.geronimo.plugins)" target="1.6" />
-      <module name="client-corba-yoko" target="1.6" />
-      <module name="client-deployer" target="1.6" />
-      <module name="client-security" target="1.6" />
-      <module name="client-system" target="1.6" />
-      <module name="client-transaction-1_6" target="1.6" />
-      <module name="clientgroup" target="1.6" />
-      <module name="clustering" target="1.6" />
-      <module name="clustering (1) (org.apache.geronimo.configs)" target="1.6" />
-      <module name="commands-testsuite" target="1.6" />
-      <module name="commonannotation1.1-test" target="1.6" />
-      <module name="configs" target="1.6" />
-      <module name="connector-1_6" target="1.6" />
-      <module name="connector-deployer-1_6" target="1.6" />
-      <module name="console" target="1.6" />
-      <module name="console-base-portlets" target="1.6" />
-      <module name="console-core" target="1.6" />
-      <module name="console-ear" target="1.6" />
-      <module name="console-filter" target="1.6" />
-      <module name="console-jetty (1) (org.apache.geronimo.plugingroups)" target="1.6" />
-      <module name="console-jetty (2) (org.apache.geronimo.plugins)" target="1.6" />
-      <module name="console-jetty-server" target="1.6" />
-      <module name="console-portal-driver" target="1.6" />
-      <module name="console-testsuite" target="1.6" />
-      <module name="console-tomcat (1) (org.apache.geronimo.plugingroups)" target="1.6" />
-      <module name="console-tomcat (2) (org.apache.geronimo.plugins)" target="1.6" />
-      <module name="console-tomcat-server" target="1.6" />
-      <module name="conversation-test" target="1.6" />
-      <module name="corba" target="1.6" />
-      <module name="corba-helloworld" target="1.6" />
-      <module name="corba-helloworld-client" target="1.6" />
-      <module name="corba-helloworld-ear" target="1.6" />
-      <module name="corba-helloworld-ejb" target="1.6" />
-      <module name="corba-helloworld-war" target="1.6" />
-      <module name="corba-marshal" target="1.6" />
-      <module name="corba-marshal-client" target="1.6" />
-      <module name="corba-marshal-ear" target="1.6" />
-      <module name="corba-marshal-ejb" target="1.6" />
-      <module name="corba-mytime" target="1.6" />
-      <module name="corba-mytime-ear" target="1.6" />
-      <module name="corba-mytime-ejb" target="1.6" />
-      <module name="corba-mytime-war" target="1.6" />
-      <module name="corba-server" target="1.6" />
-      <module name="corba-testsuite" target="1.6" />
-      <module name="custom-api" target="1.6" />
-      <module name="custom-eba" target="1.6" />
-      <module name="custom-impl" target="1.6" />
-      <module name="custom-wab" target="1.6" />
-      <module name="cxf (1) (org.apache.geronimo.configs)" target="1.6" />
-      <module name="cxf (2) (org.apache.geronimo.plugins)" target="1.6" />
-      <module name="cxf-deployer" target="1.6" />
-      <module name="cxf-ejb" target="1.6" />
-      <module name="cxf-ejb-deployer" target="1.6" />
-      <module name="db-connectors" target="1.6" />
-      <module name="debugviews" target="1.6" />
-      <module name="debugviews-console-jetty" target="1.6" />
-      <module name="debugviews-console-tomcat" target="1.6" />
-      <module name="debugviews-portlets" target="1.6" />
-      <module name="deploy" target="1.6" />
-      <module name="deployment-tests" target="1.6" />
-      <module name="deployment-testsuite" target="1.6" />
-      <module name="di1.0-test" target="1.6" />
-      <module name="ds-db" target="1.6" />
-      <module name="ds-eba" target="1.6" />
-      <module name="ds-jndi" target="1.6" />
-      <module name="ds-wab" target="1.6" />
-      <module name="eba-jetty" target="1.6" />
-      <module name="eba-tomcat" target="1.6" />
-      <module name="ejb" target="1.6" />
-      <module name="ejb-api" target="1.6" />
-      <module name="ejb-ear" target="1.6" />
-      <module name="ejb-eba" target="1.6" />
-      <module name="ejb-ejb" target="1.6" />
-      <module name="ejb-impl" target="1.6" />
-      <module name="ejb-osgi-service" target="1.6" />
-      <module name="ejb-tests" target="1.6" />
-      <module name="ejb-wab" target="1.6" />
-      <module name="ejb-war" target="1.6" />
-      <module name="ejb3.1-test" target="1.6" />
-      <module name="ejb3.1lite-test" target="1.6" />
-      <module name="el2.2-test" target="1.6" />
-      <module name="enterprise-testsuite" target="1.6" />
-      <module name="farming" target="1.6" />
-      <module name="fragment1" target="1.6" />
-      <module name="fragment2" target="1.6" />
-      <module name="fragment3" target="1.6" />
-      <module name="framework (1) (org.apache.geronimo.framework.plugingroups)" target="1.6" />
-      <module name="framework (2) (org.apache.geronimo.framework)" target="1.6" />
-      <module name="geronimo" target="1.6" />
-      <module name="geronimo-activemq-blueprint" target="1.6" />
-      <module name="geronimo-activemq-management" target="1.6" />
-      <module name="geronimo-activemq-ra" target="1.6" />
-      <module name="geronimo-aries" target="1.6" />
-      <module name="geronimo-aries-builder" target="1.6" />
-      <module name="geronimo-aries-jpa" target="1.6" />
-      <module name="geronimo-aries-resolver" target="1.6" />
-      <module name="geronimo-aries-shell" target="1.6" />
-      <module name="geronimo-aspectj" target="1.6" />
-      <module name="geronimo-assembly-archetype" target="1.6" />
-      <module name="geronimo-axis" target="1.6" />
-      <module name="geronimo-axis-builder" target="1.6" />
-      <module name="geronimo-axis2" target="1.6" />
-      <module name="geronimo-axis2-builder" target="1.6" />
-      <module name="geronimo-axis2-ejb" target="1.6" />
-      <module name="geronimo-axis2-ejb-builder" target="1.6" />
-      <module name="geronimo-blueprint" target="1.6" />
-      <module name="geronimo-bundle-recorder" target="1.6" />
-      <module name="geronimo-bval" target="1.6" />
-      <module name="geronimo-bval-builder" target="1.6" />
-      <module name="geronimo-ca-helper" target="1.6" />
-      <module name="geronimo-cli" target="1.6" />
-      <module name="geronimo-client" target="1.6" />
-      <module name="geronimo-client-builder" target="1.6" />
-      <module name="geronimo-clustering" target="1.6" />
-      <module name="geronimo-clustering-wadi" target="1.6" />
-      <module name="geronimo-common" target="1.6" />
-      <module name="geronimo-connector-1_6" target="1.6" />
-      <module name="geronimo-connector-builder-1_6" target="1.6" />
-      <module name="geronimo-connector-server" target="1.6" />
-      <module name="geronimo-converter" target="1.6" />
-      <module name="geronimo-corba" target="1.6" />
-      <module name="geronimo-corba-builder" target="1.6" />
-      <module name="geronimo-core" target="1.6" />
-      <module name="geronimo-crypto" target="1.6" />
-      <module name="geronimo-cxf" target="1.6" />
-      <module name="geronimo-cxf-builder" target="1.6" />
-      <module name="geronimo-cxf-ejb" target="1.6" />
-      <module name="geronimo-cxf-ejb-builder" target="1.6" />
-      <module name="geronimo-deploy-config" target="1.6" />
-      <module name="geronimo-deploy-farm" target="1.6" />
-      <module name="geronimo-deploy-jsr88" target="1.6" />
-      <module name="geronimo-deploy-jsr88-bootstrapper" target="1.6" />
-      <module name="geronimo-deploy-jsr88-full" target="1.6" />
-      <module name="geronimo-deploy-tool" target="1.6" />
-      <module name="geronimo-deployment" target="1.6" />
-      <module name="geronimo-derby" target="1.6" />
-      <module name="geronimo-farm" target="1.6" />
-      <module name="geronimo-framework" target="1.6" />
-      <module name="geronimo-gbean-deployer" target="1.6" />
-      <module name="geronimo-gbean-deployer-bootstrap" target="1.6" />
-      <module name="geronimo-hook" target="1.6" />
-      <module name="geronimo-hot-deploy" target="1.6" />
-      <module name="geronimo-interceptor" target="1.6" />
-      <module name="geronimo-j2ee" target="1.6" />
-      <module name="geronimo-j2ee-builder" target="1.6" />
-      <module name="geronimo-j2ee-schema" target="1.6" />
-      <module name="geronimo-jasper" target="1.6" />
-      <module name="geronimo-jasper-builder" target="1.6" />
-      <module name="geronimo-jaxws" target="1.6" />
-      <module name="geronimo-jaxws-builder" target="1.6" />
-      <module name="geronimo-jaxws-ejb-builder" target="1.6" />
-      <module name="geronimo-jaxws-sun-tools" target="1.6" />
-      <module name="geronimo-jdbc" target="1.6" />
-      <module name="geronimo-jetty8" target="1.6" />
-      <module name="geronimo-jetty8-builder" target="1.6" />
-      <module name="geronimo-jetty8-clustering-builder-wadi" target="1.6" />
-      <module name="geronimo-jetty8-clustering-wadi" target="1.6" />
-      <module name="geronimo-jetty8-javaee6" target="1.6" />
-      <module name="geronimo-jetty8-javaee6-web" target="1.6" />
-      <module name="geronimo-jetty8-minimal" target="1.6" />
-      <module name="geronimo-jmx-remoting" target="1.6" />
-      <module name="geronimo-kernel" target="1.6" />
-      <module name="geronimo-mail" target="1.6" />
-      <module name="geronimo-main" target="1.6" />
-      <module name="geronimo-management" target="1.6" />
-      <module name="geronimo-maven-plugin" target="1.6" />
-      <module name="geronimo-mejb" target="1.6" />
-      <module name="geronimo-myfaces" target="1.6" />
-      <module name="geronimo-myfaces-builder" target="1.6" />
-      <module name="geronimo-naming" target="1.6" />
-      <module name="geronimo-naming-builder" target="1.6" />
-      <module name="geronimo-obr" target="1.6" />
-      <module name="geronimo-openejb" target="1.6" />
-      <module name="geronimo-openejb-builder" target="1.6" />
-      <module name="geronimo-openejb-clustering-builder-wadi" target="1.6" />
-      <module name="geronimo-openejb-clustering-wadi" target="1.6" />
-      <module name="geronimo-openejb-server" target="1.6" />
-      <module name="geronimo-openjpa2" target="1.6" />
-      <module name="geronimo-openwebbeans" target="1.6" />
-      <module name="geronimo-openwebbeans-builder" target="1.6" />
-      <module name="geronimo-osgi-plugin" target="1.6" />
-      <module name="geronimo-pax-logging" target="1.6" />
-      <module name="geronimo-persistence-jpa20" target="1.6" />
-      <module name="geronimo-persistence-jpa20-builder" target="1.6" />
-      <module name="geronimo-plugin" target="1.6" />
-      <module name="geronimo-plugin-archetype" target="1.6" />
-      <module name="geronimo-plugin-farm" target="1.6" />
-      <module name="geronimo-plugin-farm-node" target="1.6" />
-      <module name="geronimo-pluto" target="1.6" />
-      <module name="geronimo-property-plugin" target="1.6" />
-      <module name="geronimo-remote-deploy" target="1.6" />
-      <module name="geronimo-rmi-loader" target="1.6" />
-      <module name="geronimo-security" target="1.6" />
-      <module name="geronimo-security-builder" target="1.6" />
-      <module name="geronimo-service-builder" target="1.6" />
-      <module name="geronimo-sharedlib" target="1.6" />
-      <module name="geronimo-shell" target="1.6" />
-      <module name="geronimo-shell-base" target="1.6" />
-      <module name="geronimo-shell-diagnose" target="1.6" />
-      <module name="geronimo-system" target="1.6" />
-      <module name="geronimo-test-ddbean" target="1.6" />
-      <module name="geronimo-tomcat7" target="1.6" />
-      <module name="geronimo-tomcat7-builder" target="1.6" />
-      <module name="geronimo-tomcat7-clustering-builder-wadi" target="1.6" />
-      <module name="geronimo-tomcat7-clustering-wadi" target="1.6" />
-      <module name="geronimo-tomcat7-javaee6" target="1.6" />
-      <module name="geronimo-tomcat7-javaee6-web" target="1.6" />
-      <module name="geronimo-tomcat7-minimal" target="1.6" />
-      <module name="geronimo-transaction-1_6" target="1.6" />
-      <module name="geronimo-transformer" target="1.6" />
-      <module name="geronimo-wab" target="1.6" />
-      <module name="geronimo-web" target="1.6" />
-      <module name="geronimo-web-2.5-builder" target="1.6" />
-      <module name="geronimo-web-extender" target="1.6" />
-      <module name="geronimo-webservices" target="1.6" />
-      <module name="geronimo-webservices-builder" target="1.6" />
-      <module name="geronimo-welcome" target="1.6" />
-      <module name="geronimo-wink" target="1.6" />
-      <module name="geronimo-wink-builder" target="1.6" />
-      <module name="geronimo-yoko" target="1.6" />
-      <module name="hot-deployer" target="1.6" />
-      <module name="hotdeploy" target="1.6" />
-      <module name="interceptors1.1-test" target="1.6" />
-      <module name="j2ee" target="1.6" />
-      <module name="j2ee-corba-yoko" target="1.6" />
-      <module name="j2ee-deployer" target="1.6" />
-      <module name="j2ee-security" target="1.6" />
-      <module name="j2ee-server" target="1.6" />
-      <module name="j2ee-system" target="1.6" />
-      <module name="j2ee-system-it1" target="1.6" />
-      <module name="j2ee-system-it2" target="1.6" />
-      <module name="jasper (1) (org.apache.geronimo.configs)" target="1.6" />
-      <module name="jasper (2) (org.apache.geronimo.plugins)" target="1.6" />
-      <module name="jasper-deployer" target="1.6" />
-      <module name="javaee-builder-support" target="1.6" />
-      <module name="javaee6-jetty" target="1.6" />
-      <module name="javaee6-testsuite" target="1.6" />
-      <module name="javaee6-tomcat" target="1.6" />
-      <module name="javaee6-web-jetty" target="1.6" />
-      <module name="javaee6-web-tomcat" target="1.6" />
-      <module name="javamail (1) (org.apache.geronimo.configs)" target="1.6" />
-      <module name="javamail (2) (org.apache.geronimo.plugins)" target="1.6" />
-      <module name="jaxb-client" target="1.6" />
-      <module name="jaxb-ejb" target="1.6" />
-      <module name="jaxb-tests" target="1.6" />
-      <module name="jaxb-war" target="1.6" />
-      <module name="jaxr-client" target="1.6" />
-      <module name="jaxr-ejb" target="1.6" />
-      <module name="jaxr-tests" target="1.6" />
-      <module name="jaxr-war" target="1.6" />
-      <module name="jaxrpc-ejb" target="1.6" />
-      <module name="jaxrpc-jaxws-tests" target="1.6" />
-      <module name="jaxrpc-jaxws-war" target="1.6" />
-      <module name="jaxrpc-tests" target="1.6" />
-      <module name="jaxrpc-war" target="1.6" />
-      <module name="jaxws" target="1.6" />
-      <module name="jaxws (1) (org.apache.geronimo.testsuite)" target="1.6" />
-      <module name="jaxws-catalog-tests" target="1.6" />
-      <module name="jaxws-client" target="1.6" />
-      <module name="jaxws-deployer" target="1.6" />
-      <module name="jaxws-ejb" target="1.6" />
-      <module name="jaxws-ejb-deployer" target="1.6" />
-      <module name="jaxws-ejb-sec" target="1.6" />
-      <module name="jaxws-mtom-tests" target="1.6" />
-      <module name="jaxws-partial" target="1.6" />
-      <module name="jaxws-provider-tests" target="1.6" />
-      <module name="jaxws-rest-war" target="1.6" />
-      <module name="jaxws-sun-tools" target="1.6" />
-      <module name="jaxws-tests" target="1.6" />
-      <module name="jaxws-tools" target="1.6" />
-      <module name="jaxws-war" target="1.6" />
-      <module name="jaxws-war-sec" target="1.6" />
-      <module name="jaxws-wsa-tests" target="1.6" />
-      <module name="jca-cms-ear" target="1.6" />
-      <module name="jca-cms-tests" target="1.6" />
-      <module name="jca-cms-war" target="1.6" />
-      <module name="jetty-server" target="1.6" />
-      <module name="jetty8" target="1.6" />
-      <module name="jetty8 (1) (org.apache.geronimo.configs)" target="1.6" />
-      <module name="jetty8-clustering-builder-wadi" target="1.6" />
-      <module name="jetty8-clustering-wadi" target="1.6" />
-      <module name="jetty8-deployer" target="1.6" />
-      <module name="jms" target="1.6" />
-      <module name="jms-ear" target="1.6" />
-      <module name="jms-ejb" target="1.6" />
-      <module name="jms-tests" target="1.6" />
-      <module name="jms-war" target="1.6" />
-      <module name="jmx-security" target="1.6" />
-      <module name="jndi-infer-test" target="1.6" />
-      <module name="jndiEJB-test" target="1.6" />
-      <module name="jpa" target="1.6" />
-      <module name="jpa-ear" target="1.6" />
-      <module name="jpa-eba" target="1.6" />
-      <module name="jpa-ejb" target="1.6" />
-      <module name="jpa-pu" target="1.6" />
-      <module name="jpa-tests" target="1.6" />
-      <module name="jpa-wab" target="1.6" />
-      <module name="jpa-war" target="1.6" />
-      <module name="jpa2.0-test" target="1.6" />
-      <module name="jsf" target="1.6" />
-      <module name="jsf-eba" target="1.6" />
-      <module name="jsf-taglib" target="1.6" />
-      <module name="jsf-wab" target="1.6" />
-      <module name="jsf2.0-test" target="1.6" />
-      <module name="jsp" target="1.6" />
-      <module name="jsp-eba" target="1.6" />
-      <module name="jsp-taglib" target="1.6" />
-      <module name="jsp-wab" target="1.6" />
-      <module name="jsp2.2-test" target="1.6" />
-      <module name="jsr88-cli" target="1.6" />
-      <module name="jsr88-deploymentfactory" target="1.6" />
-      <module name="jsr88-ear-configurer" target="1.6" />
-      <module name="jsr88-jar-configurer" target="1.6" />
-      <module name="jsr88-rar-configurer" target="1.6" />
-      <module name="jsr88-war-configurer" target="1.6" />
-      <module name="jta1.1-test" target="1.6" />
-      <module name="karaf-framework" target="1.6" />
-      <module name="mail-eba" target="1.6" />
-      <module name="mail-osgi-service" target="1.6" />
-      <module name="mail-wab" target="1.6" />
-      <module name="managedbean1.0-test" target="1.6" />
-      <module name="manifestcp-ear" target="1.6" />
-      <module name="manifestcp-ejb" target="1.6" />
-      <module name="manifestcp-jar" target="1.6" />
-      <module name="manifestcp-jar2" target="1.6" />
-      <module name="manifestcp-tests" target="1.6" />
-      <module name="manifestcp-war" target="1.6" />
-      <module name="manifestcp-war-jar" target="1.6" />
-      <module name="mconsole-ds" target="1.6" />
-      <module name="mconsole-jetty" target="1.6" />
-      <module name="mconsole-jetty-server" target="1.6" />
-      <module name="mconsole-tomcat" target="1.6" />
-      <module name="mconsole-war" target="1.6" />
-      <module name="mejb (1) (org.apache.geronimo.configs)" target="1.6" />
-      <module name="mejb (2) (org.apache.geronimo.plugins)" target="1.6" />
-      <module name="metadatageneration-it3" target="1.6" />
-      <module name="metadatatest-it4" target="1.6" />
-      <module name="modules" target="1.6" />
-      <module name="monitoring" target="1.6" />
-      <module name="mtom-ear" target="1.6" />
-      <module name="mtom-ejb" target="1.6" />
-      <module name="mtom-test-war" target="1.6" />
-      <module name="mtom-war" target="1.6" />
-      <module name="myfaces (1) (org.apache.geronimo.configs)" target="1.6" />
-      <module name="myfaces (2) (org.apache.geronimo.plugins)" target="1.6" />
-      <module name="myfaces-deployer" target="1.6" />
-      <module name="offline-deployer" target="1.6" />
-      <module name="online-deployer" target="1.6" />
-      <module name="openejb" target="1.6" />
-      <module name="openejb (1) (org.apache.geronimo.configs)" target="1.6" />
-      <module name="openejb-client" target="1.6" />
-      <module name="openejb-clustering-builder-wadi" target="1.6" />
-      <module name="openejb-clustering-wadi" target="1.6" />
-      <module name="openejb-console-jetty" target="1.6" />
-      <module name="openejb-console-tomcat" target="1.6" />
-      <module name="openejb-corba-deployer" target="1.6" />
-      <module name="openejb-deployer" target="1.6" />
-      <module name="openejb-portlets" target="1.6" />
-      <module name="openjpa2 (1) (org.apache.geronimo.configs)" target="1.6" />
-      <module name="openjpa2 (2) (org.apache.geronimo.plugins)" target="1.6" />
-      <module name="openwebbeans (1) (org.apache.geronimo.configs)" target="1.6" />
-      <module name="openwebbeans (2) (org.apache.geronimo.plugins)" target="1.6" />
-      <module name="openwebbeans-deployer" target="1.6" />
-      <module name="osgi-service-custom" target="1.6" />
-      <module name="persistence" target="1.6" />
-      <module name="persistence-jpa20-deployer" target="1.6" />
-      <module name="plancreator" target="1.6" />
-      <module name="plancreator-console-jetty" target="1.6" />
-      <module name="plancreator-console-tomcat" target="1.6" />
-      <module name="plancreator-portlets" target="1.6" />
-      <module name="plugin" target="1.6" />
-      <module name="plugin-console-jetty" target="1.6" />
-      <module name="plugin-console-tomcat" target="1.6" />
-      <module name="plugin-farm" target="1.6" />
-      <module name="plugin-farm-datasource" target="1.6" />
-      <module name="plugin-farm-member" target="1.6" />
-      <module name="plugin-portlets" target="1.6" />
-      <module name="plugingroups (1) (org.apache.geronimo.framework.plugingroups)" target="1.6" />
-      <module name="plugingroups (2) (org.apache.geronimo.plugingroups)" target="1.6" />
-      <module name="plugins" target="1.6" />
-      <module name="pluto" target="1.6" />
-      <module name="pluto-support" target="1.6" />
-      <module name="procrun" target="1.6" />
-      <module name="provider-common" target="1.6" />
-      <module name="provider-ear" target="1.6" />
-      <module name="provider-ejb" target="1.6" />
-      <module name="provider-test-war" target="1.6" />
-      <module name="provider-war" target="1.6" />
-      <module name="remote-deploy" target="1.6" />
-      <module name="remote-deploy-jetty" target="1.6" />
-      <module name="remote-deploy-tomcat" target="1.6" />
-      <module name="require-bundle-test" target="1.6" />
-      <module name="RequireBundle-eba" target="1.6" />
-      <module name="Resolution-Optional-eba" target="1.6" />
-      <module name="Resolution-Optional-WAB" target="1.6" />
-      <module name="restful-test" target="1.6" />
-      <module name="rmi-naming" target="1.6" />
-      <module name="saaj-client" target="1.6" />
-      <module name="saaj-tests" target="1.6" />
-      <module name="saaj-war" target="1.6" />
-      <module name="sec-client" target="1.6" />
-      <module name="sec-client-tests" target="1.6" />
-      <module name="sec-ear" target="1.6" />
-      <module name="sec-ejb" target="1.6" />
-      <module name="sec-tests" target="1.6" />
-      <module name="sec-war" target="1.6" />
-      <module name="security-ejb-ear" target="1.6" />
-      <module name="security-ejb-ejb" target="1.6" />
-      <module name="security-ejb-war" target="1.6" />
-      <module name="security-testsuite" target="1.6" />
-      <module name="server-security-config" target="1.6" />
-      <module name="servlet3.0-security-test" target="1.6" />
-      <module name="servlet3.0-test" target="1.6" />
-      <module name="servlet3.0-test-jar" target="1.6" />
-      <module name="servlet3.0-test-war" target="1.6" />
-      <module name="sharedlib (1) (org.apache.geronimo.plugins)" target="1.6" />
-      <module name="sharedlib (2) (org.apache.geronimo.configs)" target="1.6" />
-      <module name="sharedlib-extender" target="1.6" />
-      <module name="shutdown" target="1.6" />
-      <module name="shutdown (1) (org.apache.geronimo.testsuite)" target="1.6" />
-      <module name="simple" target="1.6" />
-      <module name="simple-api" target="1.6" />
-      <module name="simple-eba" target="1.6" />
-      <module name="simple-wab" target="1.6" />
-      <module name="stax-client" target="1.6" />
-      <module name="stax-ejb" target="1.6" />
-      <module name="stax-tests" target="1.6" />
-      <module name="stax-war" target="1.6" />
-      <module name="sysdb-console-jetty" target="1.6" />
-      <module name="sysdb-console-tomcat" target="1.6" />
-      <module name="sysdb-portlets" target="1.6" />
-      <module name="system-database (1) (org.apache.geronimo.plugins)" target="1.6" />
-      <module name="system-database (2) (org.apache.geronimo.configs)" target="1.6" />
-      <module name="test-2.1-jsps" target="1.6" />
-      <module name="test-2.5-servlets" target="1.6" />
-      <module name="test-deployment-j2ee_1.3" target="1.6" />
-      <module name="test-deployment-j2ee_1.4" target="1.6" />
-      <module name="test-deployment-javaee_5" target="1.6" />
-      <module name="test-ear-j2ee_1.3" target="1.6" />
-      <module name="test-ear-j2ee_1.4" target="1.6" />
-      <module name="test-ear-javaee_5" target="1.6" />
-      <module name="test-ejb-j2ee_1.3" target="1.6" />
-      <module name="test-ejb-j2ee_1.4" target="1.6" />
-      <module name="test-ejb-javaee_5" target="1.6" />
-      <module name="test-generic-auth" target="1.6" />
-      <module name="test-jetty" target="1.6" />
-      <module name="test-myfaces" target="1.6" />
-      <module name="test-rar-j2ee_1.3" target="1.6" />
-      <module name="test-rar-j2ee_1.4" target="1.6" />
-      <module name="test-rar-javaee_5" target="1.6" />
-      <module name="test-security" target="1.6" />
-      <module name="test-security-annotation-ejb" target="1.6" />
-      <module name="test-security-basic-authentication" target="1.6" />
-      <module name="test-tld" target="1.6" />
-      <module name="test-tld-jar" target="1.6" />
-      <module name="test-tld-war" target="1.6" />
-      <module name="test-tomcat" target="1.6" />
-      <module name="test-war-j2ee_1.3" target="1.6" />
-      <module name="test-war-j2ee_1.4" target="1.6" />
-      <module name="test-war-javaee_5" target="1.6" />
-      <module name="test-web-forward" target="1.6" />
-      <module name="test-web-references" target="1.6" />
-      <module name="testsuite" target="1.6" />
-      <module name="testsuite-maven-plugin" target="1.6" />
-      <module name="testsupport" target="1.6" />
-      <module name="testsupport-commands" target="1.6" />
-      <module name="testsupport-common" target="1.6" />
-      <module name="testsupport-packaging" target="1.6" />
-      <module name="testsupport-selenium" target="1.6" />
-      <module name="tomcat" target="1.6" />
-      <module name="tomcat7" target="1.6" />
-      <module name="tomcat7-clustering-builder-wadi" target="1.6" />
-      <module name="tomcat7-clustering-wadi" target="1.6" />
-      <module name="tomcat7-deployer" target="1.6" />
-      <module name="tomcat7-no-ha" target="1.6" />
-      <module name="transaction-1_6" target="1.6" />
-      <module name="uddi" target="1.6" />
-      <module name="uddi-db" target="1.6" />
-      <module name="uddi-jetty" target="1.6" />
-      <module name="uddi-jetty-server" target="1.6" />
-      <module name="uddi-tomcat" target="1.6" />
-      <module name="uddi-war-repackage" target="1.6" />
-      <module name="url-binding-tests" target="1.6" />
-      <module name="wab" target="1.6" />
-      <module name="wab-jetty" target="1.6" />
-      <module name="wab-tomcat" target="1.6" />
-      <module name="wadi-clustering" target="1.6" />
-      <module name="web-extender" target="1.6" />
-      <module name="web-forward-ear" target="1.6" />
-      <module name="web-forward-war-1" target="1.6" />
-      <module name="web-forward-war-2" target="1.6" />
-      <module name="web-jetty-server" target="1.6" />
-      <module name="web-references-ear" target="1.6" />
-      <module name="web-references-ejb" target="1.6" />
-      <module name="web-references-war" target="1.6" />
-      <module name="web-testsuite" target="1.6" />
-      <module name="web-tomcat-server" target="1.6" />
-      <module name="webbean-ejb-test" target="1.6" />
-      <module name="webbean-jpa-test" target="1.6" />
-      <module name="webbean-servlet-test" target="1.6" />
-      <module name="webbean1.0-test" target="1.6" />
-      <module name="webservices" target="1.6" />
-      <module name="webservices-axis2" target="1.6" />
-      <module name="webservices-common" target="1.6" />
-      <module name="webservices-testsuite" target="1.6" />
-      <module name="welcome" target="1.6" />
-      <module name="welcome-jetty" target="1.6" />
-      <module name="welcome-jetty-server" target="1.6" />
-      <module name="welcome-tomcat" target="1.6" />
-      <module name="welcome-tomcat-server" target="1.6" />
-      <module name="wink (1) (org.apache.geronimo.plugins)" target="1.6" />
-      <module name="wink (2) (org.apache.geronimo.configs)" target="1.6" />
-      <module name="wink-deployer" target="1.6" />
-      <module name="wink-tomcat-server" target="1.6" />
-      <module name="wsa-ear" target="1.6" />
-      <module name="wsa-ejb" target="1.6" />
-      <module name="wsa-test-war" target="1.6" />
-      <module name="wsa-war" target="1.6" />
+      <module name="activemq" target="8" />
+      <module name="activemq-broker-blueprint" target="8" />
+      <module name="activemq-console-jetty" target="8" />
+      <module name="activemq-console-tomcat" target="8" />
+      <module name="activemq-jetty-server" target="8" />
+      <module name="activemq-portlets" target="8" />
+      <module name="activemq-ra" target="8" />
+      <module name="advanced" target="8" />
+      <module name="agent-car-ejb" target="8" />
+      <module name="agent-car-jmx" target="8" />
+      <module name="agent-ds" target="8" />
+      <module name="agent-ejb" target="8" />
+      <module name="agent-jar" target="8" />
+      <module name="agent-jmx" target="8" />
+      <module name="agent-sql" target="8" />
+      <module name="appname-client" target="8" />
+      <module name="appname-ear" target="8" />
+      <module name="appname-tests" target="8" />
+      <module name="appname-war" target="8" />
+      <module name="aries (1) (org.apache.geronimo.configs)" target="8" />
+      <module name="aries (2) (org.apache.geronimo.plugins)" target="8" />
+      <module name="aries-deployer" target="8" />
+      <module name="aries-testsuite" target="8" />
+      <module name="aspectj (1) (org.apache.geronimo.configs)" target="8" />
+      <module name="aspectj (2) (org.apache.geronimo.plugins)" target="8" />
+      <module name="assemblies (1) (org.apache.geronimo.assemblies)" target="8" />
+      <module name="assemblies (2) (org.apache.geronimo.framework.assemblies)" target="8" />
+      <module name="asynEJB-test" target="8" />
+      <module name="axis (1) (org.apache.geronimo.configs)" target="8" />
+      <module name="axis (2) (org.apache.geronimo.plugins)" target="8" />
+      <module name="axis-deployer" target="8" />
+      <module name="axis-jetty-server" target="8" />
+      <module name="axis2 (1) (org.apache.geronimo.configs)" target="8" />
+      <module name="axis2 (2) (org.apache.geronimo.plugins)" target="8" />
+      <module name="axis2-deployer" target="8" />
+      <module name="axis2-ejb" target="8" />
+      <module name="axis2-ejb-deployer" target="8" />
+      <module name="basic" target="8" />
+      <module name="beanvalidation-ejb-ear" target="8" />
+      <module name="beanvalidation-ejb-ejb" target="8" />
+      <module name="beanvalidation-ejb-test" target="8" />
+      <module name="beanvalidation-ejb-war" target="8" />
+      <module name="beanvalidation-tests" target="8" />
+      <module name="beanvalidation-web-test" target="8" />
+      <module name="buildsupport" target="8" />
+      <module name="buildsupport-maven-plugin" target="8" />
+      <module name="bundle-inject-test" target="8" />
+      <module name="bundle-recorder" target="8" />
+      <module name="bval" target="8" />
+      <module name="bval-deployer" target="8" />
+      <module name="ca-helper" target="8" />
+      <module name="ca-helper-jetty" target="8" />
+      <module name="ca-helper-tomcat" target="8" />
+      <module name="CalculatorBeanBundle_B" target="8" />
+      <module name="CalculatorBeanBundle_C" target="8" />
+      <module name="CalculatorServletBundle_A" target="8" />
+      <module name="car-maven-plugin" target="8" />
+      <module name="catalog-ear" target="8" />
+      <module name="catalog-ejb" target="8" />
+      <module name="catalog-war" target="8" />
+      <module name="client (1) (org.apache.geronimo.configs)" target="8" />
+      <module name="client (2) (org.apache.geronimo.plugins)" target="8" />
+      <module name="client-corba-yoko" target="8" />
+      <module name="client-deployer" target="8" />
+      <module name="client-security" target="8" />
+      <module name="client-system" target="8" />
+      <module name="client-transaction-1_6" target="8" />
+      <module name="clientgroup" target="8" />
+      <module name="clustering" target="8" />
+      <module name="clustering (1) (org.apache.geronimo.configs)" target="8" />
+      <module name="commands-testsuite" target="8" />
+      <module name="commonannotation1.1-test" target="8" />
+      <module name="configs" target="8" />
+      <module name="connector-1_6" target="8" />
+      <module name="connector-deployer-1_6" target="8" />
+      <module name="console" target="8" />
+      <module name="console-base-portlets" target="8" />
+      <module name="console-core" target="8" />
+      <module name="console-ear" target="8" />
+      <module name="console-filter" target="8" />
+      <module name="console-jetty (1) (org.apache.geronimo.plugingroups)" target="8" />
+      <module name="console-jetty (2) (org.apache.geronimo.plugins)" target="8" />
+      <module name="console-jetty-server" target="8" />
+      <module name="console-portal-driver" target="8" />
+      <module name="console-testsuite" target="8" />
+      <module name="console-tomcat (1) (org.apache.geronimo.plugingroups)" target="8" />
+      <module name="console-tomcat (2) (org.apache.geronimo.plugins)" target="8" />
+      <module name="console-tomcat-server" target="8" />
+      <module name="conversation-test" target="8" />
+      <module name="corba" target="8" />
+      <module name="corba-helloworld" target="8" />
+      <module name="corba-helloworld-client" target="8" />
+      <module name="corba-helloworld-ear" target="8" />
+      <module name="corba-helloworld-ejb" target="8" />
+      <module name="corba-helloworld-war" target="8" />
+      <module name="corba-marshal" target="8" />
+      <module name="corba-marshal-client" target="8" />
+      <module name="corba-marshal-ear" target="8" />
+      <module name="corba-marshal-ejb" target="8" />
+      <module name="corba-mytime" target="8" />
+      <module name="corba-mytime-ear" target="8" />
+      <module name="corba-mytime-ejb" target="8" />
+      <module name="corba-mytime-war" target="8" />
+      <module name="corba-server" target="8" />
+      <module name="corba-testsuite" target="8" />
+      <module name="custom-api" target="8" />
+      <module name="custom-eba" target="8" />
+      <module name="custom-impl" target="8" />
+      <module name="custom-wab" target="8" />
+      <module name="cxf (1) (org.apache.geronimo.configs)" target="8" />
+      <module name="cxf (2) (org.apache.geronimo.plugins)" target="8" />
+      <module name="cxf-deployer" target="8" />
+      <module name="cxf-ejb" target="8" />
+      <module name="cxf-ejb-deployer" target="8" />
+      <module name="db-connectors" target="8" />
+      <module name="debugviews" target="8" />
+      <module name="debugviews-console-jetty" target="8" />
+      <module name="debugviews-console-tomcat" target="8" />
+      <module name="debugviews-portlets" target="8" />
+      <module name="deploy" target="8" />
+      <module name="deployment-tests" target="8" />
+      <module name="deployment-testsuite" target="8" />
+      <module name="di1.0-test" target="8" />
+      <module name="ds-db" target="8" />
+      <module name="ds-eba" target="8" />
+      <module name="ds-jndi" target="8" />
+      <module name="ds-wab" target="8" />
+      <module name="eba-jetty" target="8" />
+      <module name="eba-tomcat" target="8" />
+      <module name="ejb" target="8" />
+      <module name="ejb-api" target="8" />
+      <module name="ejb-ear" target="8" />
+      <module name="ejb-eba" target="8" />
+      <module name="ejb-ejb" target="8" />
+      <module name="ejb-impl" target="8" />
+      <module name="ejb-osgi-service" target="8" />
+      <module name="ejb-tests" target="8" />
+      <module name="ejb-wab" target="8" />
+      <module name="ejb-war" target="8" />
+      <module name="ejb3.1-test" target="8" />
+      <module name="ejb3.1lite-test" target="8" />
+      <module name="el2.2-test" target="8" />
+      <module name="enterprise-testsuite" target="8" />
+      <module name="farming" target="8" />
+      <module name="fragment1" target="8" />
+      <module name="fragment2" target="8" />
+      <module name="fragment3" target="8" />
+      <module name="framework (1) (org.apache.geronimo.framework.plugingroups)" target="8" />
+      <module name="framework (2) (org.apache.geronimo.framework)" target="8" />
+      <module name="geronimo" target="8" />
+      <module name="geronimo-activemq-blueprint" target="8" />
+      <module name="geronimo-activemq-management" target="8" />
+      <module name="geronimo-activemq-ra" target="8" />
+      <module name="geronimo-aries" target="8" />
+      <module name="geronimo-aries-builder" target="8" />
+      <module name="geronimo-aries-jpa" target="8" />
+      <module name="geronimo-aries-resolver" target="8" />
+      <module name="geronimo-aries-shell" target="8" />
+      <module name="geronimo-aspectj" target="8" />
+      <module name="geronimo-assembly-archetype" target="8" />
+      <module name="geronimo-axis" target="8" />
+      <module name="geronimo-axis-builder" target="8" />
+      <module name="geronimo-axis2" target="8" />
+      <module name="geronimo-axis2-builder" target="8" />
+      <module name="geronimo-axis2-ejb" target="8" />
+      <module name="geronimo-axis2-ejb-builder" target="8" />
+      <module name="geronimo-blueprint" target="8" />
+      <module name="geronimo-bundle-recorder" target="8" />
+      <module name="geronimo-bval" target="8" />
+      <module name="geronimo-bval-builder" target="8" />
+      <module name="geronimo-ca-helper" target="8" />
+      <module name="geronimo-cli" target="8" />
+      <module name="geronimo-client" target="8" />
+      <module name="geronimo-client-builder" target="8" />
+      <module name="geronimo-clustering" target="8" />
+      <module name="geronimo-clustering-wadi" target="8" />
+      <module name="geronimo-common" target="8" />
+      <module name="geronimo-connector-1_6" target="8" />
+      <module name="geronimo-connector-builder-1_6" target="8" />
+      <module name="geronimo-connector-server" target="8" />
+      <module name="geronimo-converter" target="8" />
+      <module name="geronimo-corba" target="8" />
+      <module name="geronimo-corba-builder" target="8" />
+      <module name="geronimo-core" target="8" />
+      <module name="geronimo-crypto" target="8" />
+      <module name="geronimo-cxf" target="8" />
+      <module name="geronimo-cxf-builder" target="8" />
+      <module name="geronimo-cxf-ejb" target="8" />
+      <module name="geronimo-cxf-ejb-builder" target="8" />
+      <module name="geronimo-deploy-config" target="8" />
+      <module name="geronimo-deploy-farm" target="8" />
+      <module name="geronimo-deploy-jsr88" target="8" />
+      <module name="geronimo-deploy-jsr88-bootstrapper" target="8" />
+      <module name="geronimo-deploy-jsr88-full" target="8" />
+      <module name="geronimo-deploy-tool" target="8" />
+      <module name="geronimo-deployment" target="8" />
+      <module name="geronimo-derby" target="8" />
+      <module name="geronimo-farm" target="8" />
+      <module name="geronimo-framework" target="8" />
+      <module name="geronimo-gbean-deployer" target="8" />
+      <module name="geronimo-gbean-deployer-bootstrap" target="8" />
+      <module name="geronimo-hook" target="8" />
+      <module name="geronimo-hot-deploy" target="8" />
+      <module name="geronimo-interceptor" target="8" />
+      <module name="geronimo-j2ee" target="8" />
+      <module name="geronimo-j2ee-builder" target="8" />
+      <module name="geronimo-j2ee-schema" target="8" />
+      <module name="geronimo-jasper" target="8" />
+      <module name="geronimo-jasper-builder" target="8" />
+      <module name="geronimo-jaxws" target="8" />
+      <module name="geronimo-jaxws-builder" target="8" />
+      <module name="geronimo-jaxws-ejb-builder" target="8" />
+      <module name="geronimo-jaxws-sun-tools" target="8" />
+      <module name="geronimo-jdbc" target="8" />
+      <module name="geronimo-jetty8" target="8" />
+      <module name="geronimo-jetty8-builder" target="8" />
+      <module name="geronimo-jetty8-clustering-builder-wadi" target="8" />
+      <module name="geronimo-jetty8-clustering-wadi" target="8" />
+      <module name="geronimo-jetty8-javaee6" target="8" />
+      <module name="geronimo-jetty8-javaee6-web" target="8" />
+      <module name="geronimo-jetty8-minimal" target="8" />
+      <module name="geronimo-jmx-remoting" target="8" />
+      <module name="geronimo-kernel" target="8" />
+      <module name="geronimo-mail" target="8" />
+      <module name="geronimo-main" target="8" />
+      <module name="geronimo-management" target="8" />
+      <module name="geronimo-maven-plugin" target="8" />
+      <module name="geronimo-mejb" target="8" />
+      <module name="geronimo-myfaces" target="8" />
+      <module name="geronimo-myfaces-builder" target="8" />
+      <module name="geronimo-naming" target="8" />
+      <module name="geronimo-naming-builder" target="8" />
+      <module name="geronimo-obr" target="8" />
+      <module name="geronimo-openejb" target="8" />
+      <module name="geronimo-openejb-builder" target="8" />
+      <module name="geronimo-openejb-clustering-builder-wadi" target="8" />
+      <module name="geronimo-openejb-clustering-wadi" target="8" />
+      <module name="geronimo-openejb-server" target="8" />
+      <module name="geronimo-openjpa2" target="8" />
+      <module name="geronimo-openwebbeans" target="8" />
+      <module name="geronimo-openwebbeans-builder" target="8" />
+      <module name="geronimo-osgi-plugin" target="8" />
+      <module name="geronimo-pax-logging" target="8" />
+      <module name="geronimo-persistence-jpa20" target="8" />
+      <module name="geronimo-persistence-jpa20-builder" target="8" />
+      <module name="geronimo-plugin" target="8" />
+      <module name="geronimo-plugin-archetype" target="8" />
+      <module name="geronimo-plugin-farm" target="8" />
+      <module name="geronimo-plugin-farm-node" target="8" />
+      <module name="geronimo-pluto" target="8" />
+      <module name="geronimo-property-plugin" target="8" />
+      <module name="geronimo-remote-deploy" target="8" />
+      <module name="geronimo-rmi-loader" target="8" />
+      <module name="geronimo-security" target="8" />
+      <module name="geronimo-security-builder" target="8" />
+      <module name="geronimo-service-builder" target="8" />
+      <module name="geronimo-sharedlib" target="8" />
+      <module name="geronimo-shell" target="8" />
+      <module name="geronimo-shell-base" target="8" />
+      <module name="geronimo-shell-diagnose" target="8" />
+      <module name="geronimo-system" target="8" />
+      <module name="geronimo-test-ddbean" target="8" />
+      <module name="geronimo-tomcat7" target="8" />
+      <module name="geronimo-tomcat7-builder" target="8" />
+      <module name="geronimo-tomcat7-clustering-builder-wadi" target="8" />
+      <module name="geronimo-tomcat7-clustering-wadi" target="8" />
+      <module name="geronimo-tomcat7-javaee6" target="8" />
+      <module name="geronimo-tomcat7-javaee6-web" target="8" />
+      <module name="geronimo-tomcat7-minimal" target="8" />
+      <module name="geronimo-transaction-1_6" target="8" />
+      <module name="geronimo-transformer" target="8" />
+      <module name="geronimo-wab" target="8" />
+      <module name="geronimo-web" target="8" />
+      <module name="geronimo-web-2.5-builder" target="8" />
+      <module name="geronimo-web-extender" target="8" />
+      <module name="geronimo-webservices" target="8" />
+      <module name="geronimo-webservices-builder" target="8" />
+      <module name="geronimo-welcome" target="8" />
+      <module name="geronimo-wink" target="8" />
+      <module name="geronimo-wink-builder" target="8" />
+      <module name="geronimo-yoko" target="8" />
+      <module name="hot-deployer" target="8" />
+      <module name="hotdeploy" target="8" />
+      <module name="interceptors1.1-test" target="8" />
+      <module name="j2ee" target="8" />
+      <module name="j2ee-corba-yoko" target="8" />
+      <module name="j2ee-deployer" target="8" />
+      <module name="j2ee-security" target="8" />
+      <module name="j2ee-server" target="8" />
+      <module name="j2ee-system" target="8" />
+      <module name="j2ee-system-it1" target="8" />
+      <module name="j2ee-system-it2" target="8" />
+      <module name="jasper (1) (org.apache.geronimo.configs)" target="8" />
+      <module name="jasper (2) (org.apache.geronimo.plugins)" target="8" />
+      <module name="jasper-deployer" target="8" />
+      <module name="javaee-builder-support" target="8" />
+      <module name="javaee6-jetty" target="8" />
+      <module name="javaee6-testsuite" target="8" />
+      <module name="javaee6-tomcat" target="8" />
+      <module name="javaee6-web-jetty" target="8" />
+      <module name="javaee6-web-tomcat" target="8" />
+      <module name="javamail (1) (org.apache.geronimo.configs)" target="8" />
+      <module name="javamail (2) (org.apache.geronimo.plugins)" target="8" />
+      <module name="jaxb-client" target="8" />
+      <module name="jaxb-ejb" target="8" />
+      <module name="jaxb-tests" target="8" />
+      <module name="jaxb-war" target="8" />
+      <module name="jaxr-client" target="8" />
+      <module name="jaxr-ejb" target="8" />
+      <module name="jaxr-tests" target="8" />
+      <module name="jaxr-war" target="8" />
+      <module name="jaxrpc-ejb" target="8" />
+      <module name="jaxrpc-jaxws-tests" target="8" />
+      <module name="jaxrpc-jaxws-war" target="8" />
+      <module name="jaxrpc-tests" target="8" />
+      <module name="jaxrpc-war" target="8" />
+      <module name="jaxws" target="8" />
+      <module name="jaxws (1) (org.apache.geronimo.testsuite)" target="8" />
+      <module name="jaxws-catalog-tests" target="8" />
+      <module name="jaxws-client" target="8" />
+      <module name="jaxws-deployer" target="8" />
+      <module name="jaxws-ejb" target="8" />
+      <module name="jaxws-ejb-deployer" target="8" />
+      <module name="jaxws-ejb-sec" target="8" />
+      <module name="jaxws-mtom-tests" target="8" />
+      <module name="jaxws-partial" target="8" />
+      <module name="jaxws-provider-tests" target="8" />
+      <module name="jaxws-rest-war" target="8" />
+      <module name="jaxws-sun-tools" target="8" />
+      <module name="jaxws-tests" target="8" />
+      <module name="jaxws-tools" target="8" />
+      <module name="jaxws-war" target="8" />
+      <module name="jaxws-war-sec" target="8" />
+      <module name="jaxws-wsa-tests" target="8" />
+      <module name="jca-cms-ear" target="8" />
+      <module name="jca-cms-tests" target="8" />
+      <module name="jca-cms-war" target="8" />
+      <module name="jetty-server" target="8" />
+      <module name="jetty8" target="8" />
+      <module name="jetty8 (1) (org.apache.geronimo.configs)" target="8" />
+      <module name="jetty8-clustering-builder-wadi" target="8" />
+      <module name="jetty8-clustering-wadi" target="8" />
+      <module name="jetty8-deployer" target="8" />
+      <module name="jms" target="8" />
+      <module name="jms-ear" target="8" />
+      <module name="jms-ejb" target="8" />
+      <module name="jms-tests" target="8" />
+      <module name="jms-war" target="8" />
+      <module name="jmx-security" target="8" />
+      <module name="jndi-infer-test" target="8" />
+      <module name="jndiEJB-test" target="8" />
+      <module name="jpa" target="8" />
+      <module name="jpa-ear" target="8" />
+      <module name="jpa-eba" target="8" />
+      <module name="jpa-ejb" target="8" />
+      <module name="jpa-pu" target="8" />
+      <module name="jpa-tests" target="8" />
+      <module name="jpa-wab" target="8" />
+      <module name="jpa-war" target="8" />
+      <module name="jpa2.0-test" target="8" />
+      <module name="jsf" target="8" />
+      <module name="jsf-eba" target="8" />
+      <module name="jsf-taglib" target="8" />
+      <module name="jsf-wab" target="8" />
+      <module name="jsf2.0-test" target="8" />
+      <module name="jsp" target="8" />
+      <module name="jsp-eba" target="8" />
+      <module name="jsp-taglib" target="8" />
+      <module name="jsp-wab" target="8" />
+      <module name="jsp2.2-test" target="8" />
+      <module name="jsr88-cli" target="8" />
+      <module name="jsr88-deploymentfactory" target="8" />
+      <module name="jsr88-ear-configurer" target="8" />
+      <module name="jsr88-jar-configurer" target="8" />
+      <module name="jsr88-rar-configurer" target="8" />
+      <module name="jsr88-war-configurer" target="8" />
+      <module name="jta1.1-test" target="8" />
+      <module name="karaf-framework" target="8" />
+      <module name="mail-eba" target="8" />
+      <module name="mail-osgi-service" target="8" />
+      <module name="mail-wab" target="8" />
+      <module name="managedbean1.0-test" target="8" />
+      <module name="manifestcp-ear" target="8" />
+      <module name="manifestcp-ejb" target="8" />
+      <module name="manifestcp-jar" target="8" />
+      <module name="manifestcp-jar2" target="8" />
+      <module name="manifestcp-tests" target="8" />
+      <module name="manifestcp-war" target="8" />
+      <module name="manifestcp-war-jar" target="8" />
+      <module name="mconsole-ds" target="8" />
+      <module name="mconsole-jetty" target="8" />
+      <module name="mconsole-jetty-server" target="8" />
+      <module name="mconsole-tomcat" target="8" />
+      <module name="mconsole-war" target="8" />
+      <module name="mejb (1) (org.apache.geronimo.configs)" target="8" />
+      <module name="mejb (2) (org.apache.geronimo.plugins)" target="8" />
+      <module name="metadatageneration-it3" target="8" />
+      <module name="metadatatest-it4" target="8" />
+      <module name="modules" target="8" />
+      <module name="monitoring" target="8" />
+      <module name="mtom-ear" target="8" />
+      <module name="mtom-ejb" target="8" />
+      <module name="mtom-test-war" target="8" />
+      <module name="mtom-war" target="8" />
+      <module name="myfaces (1) (org.apache.geronimo.configs)" target="8" />
+      <module name="myfaces (2) (org.apache.geronimo.plugins)" target="8" />
+      <module name="myfaces-deployer" target="8" />
+      <module name="offline-deployer" target="8" />
+      <module name="online-deployer" target="8" />
+      <module name="openejb" target="8" />
+      <module name="openejb (1) (org.apache.geronimo.configs)" target="8" />
+      <module name="openejb-client" target="8" />
+      <module name="openejb-clustering-builder-wadi" target="8" />
+      <module name="openejb-clustering-wadi" target="8" />
+      <module name="openejb-console-jetty" target="8" />
+      <module name="openejb-console-tomcat" target="8" />
+      <module name="openejb-corba-deployer" target="8" />
+      <module name="openejb-deployer" target="8" />
+      <module name="openejb-portlets" target="8" />
+      <module name="openjpa2 (1) (org.apache.geronimo.configs)" target="8" />
+      <module name="openjpa2 (2) (org.apache.geronimo.plugins)" target="8" />
+      <module name="openwebbeans (1) (org.apache.geronimo.configs)" target="8" />
+      <module name="openwebbeans (2) (org.apache.geronimo.plugins)" target="8" />
+      <module name="openwebbeans-deployer" target="8" />
+      <module name="osgi-service-custom" target="8" />
+      <module name="persistence" target="8" />
+      <module name="persistence-jpa20-deployer" target="8" />
+      <module name="plancreator" target="8" />
+      <module name="plancreator-console-jetty" target="8" />
+      <module name="plancreator-console-tomcat" target="8" />
+      <module name="plancreator-portlets" target="8" />
+      <module name="plugin" target="8" />
+      <module name="plugin-console-jetty" target="8" />
+      <module name="plugin-console-tomcat" target="8" />
+      <module name="plugin-farm" target="8" />
+      <module name="plugin-farm-datasource" target="8" />
+      <module name="plugin-farm-member" target="8" />
+      <module name="plugin-portlets" target="8" />
+      <module name="plugingroups (1) (org.apache.geronimo.framework.plugingroups)" target="8" />
+      <module name="plugingroups (2) (org.apache.geronimo.plugingroups)" target="8" />
+      <module name="plugins" target="8" />
+      <module name="pluto" target="8" />
+      <module name="pluto-support" target="8" />
+      <module name="procrun" target="8" />
+      <module name="provider-common" target="8" />
+      <module name="provider-ear" target="8" />
+      <module name="provider-ejb" target="8" />
+      <module name="provider-test-war" target="8" />
+      <module name="provider-war" target="8" />
+      <module name="remote-deploy" target="8" />
+      <module name="remote-deploy-jetty" target="8" />
+      <module name="remote-deploy-tomcat" target="8" />
+      <module name="require-bundle-test" target="8" />
+      <module name="RequireBundle-eba" target="8" />
+      <module name="Resolution-Optional-eba" target="8" />
+      <module name="Resolution-Optional-WAB" target="8" />
+      <module name="restful-test" target="8" />
+      <module name="rmi-naming" target="8" />
+      <module name="saaj-client" target="8" />
+      <module name="saaj-tests" target="8" />
+      <module name="saaj-war" target="8" />
+      <module name="sec-client" target="8" />
+      <module name="sec-client-tests" target="8" />
+      <module name="sec-ear" target="8" />
+      <module name="sec-ejb" target="8" />
+      <module name="sec-tests" target="8" />
+      <module name="sec-war" target="8" />
+      <module name="security-ejb-ear" target="8" />
+      <module name="security-ejb-ejb" target="8" />
+      <module name="security-ejb-war" target="8" />
+      <module name="security-testsuite" target="8" />
+      <module name="server-security-config" target="8" />
+      <module name="servlet3.0-security-test" target="8" />
+      <module name="servlet3.0-test" target="8" />
+      <module name="servlet3.0-test-jar" target="8" />
+      <module name="servlet3.0-test-war" target="8" />
+      <module name="sharedlib (1) (org.apache.geronimo.plugins)" target="8" />
+      <module name="sharedlib (2) (org.apache.geronimo.configs)" target="8" />
+      <module name="sharedlib-extender" target="8" />
+      <module name="shutdown" target="8" />
+      <module name="shutdown (1) (org.apache.geronimo.testsuite)" target="8" />
+      <module name="simple" target="8" />
+      <module name="simple-api" target="8" />
+      <module name="simple-eba" target="8" />
+      <module name="simple-wab" target="8" />
+      <module name="stax-client" target="8" />
+      <module name="stax-ejb" target="8" />
+      <module name="stax-tests" target="8" />
+      <module name="stax-war" target="8" />
+      <module name="sysdb-console-jetty" target="8" />
+      <module name="sysdb-console-tomcat" target="8" />
+      <module name="sysdb-portlets" target="8" />
+      <module name="system-database (1) (org.apache.geronimo.plugins)" target="8" />
+      <module name="system-database (2) (org.apache.geronimo.configs)" target="8" />
+      <module name="test-2.1-jsps" target="8" />
+      <module name="test-2.5-servlets" target="8" />
+      <module name="test-deployment-j2ee_1.3" target="8" />
+      <module name="test-deployment-j2ee_1.4" target="8" />
+      <module name="test-deployment-javaee_5" target="8" />
+      <module name="test-ear-j2ee_1.3" target="8" />
+      <module name="test-ear-j2ee_1.4" target="8" />
+      <module name="test-ear-javaee_5" target="8" />
+      <module name="test-ejb-j2ee_1.3" target="8" />
+      <module name="test-ejb-j2ee_1.4" target="8" />
+      <module name="test-ejb-javaee_5" target="8" />
+      <module name="test-generic-auth" target="8" />
+      <module name="test-jetty" target="8" />
+      <module name="test-myfaces" target="8" />
+      <module name="test-rar-j2ee_1.3" target="8" />
+      <module name="test-rar-j2ee_1.4" target="8" />
+      <module name="test-rar-javaee_5" target="8" />
+      <module name="test-security" target="8" />
+      <module name="test-security-annotation-ejb" target="8" />
+      <module name="test-security-basic-authentication" target="8" />
+      <module name="test-tld" target="8" />
+      <module name="test-tld-jar" target="8" />
+      <module name="test-tld-war" target="8" />
+      <module name="test-tomcat" target="8" />
+      <module name="test-war-j2ee_1.3" target="8" />
+      <module name="test-war-j2ee_1.4" target="8" />
+      <module name="test-war-javaee_5" target="8" />
+      <module name="test-web-forward" target="8" />
+      <module name="test-web-references" target="8" />
+      <module name="testsuite" target="8" />
+      <module name="testsuite-maven-plugin" target="8" />
+      <module name="testsupport" target="8" />
+      <module name="testsupport-commands" target="8" />
+      <module name="testsupport-common" target="8" />
+      <module name="testsupport-packaging" target="8" />
+      <module name="testsupport-selenium" target="8" />
+      <module name="tomcat" target="8" />
+      <module name="tomcat7" target="8" />
+      <module name="tomcat7-clustering-builder-wadi" target="8" />
+      <module name="tomcat7-clustering-wadi" target="8" />
+      <module name="tomcat7-deployer" target="8" />
+      <module name="tomcat7-no-ha" target="8" />
+      <module name="transaction-1_6" target="8" />
+      <module name="uddi" target="8" />
+      <module name="uddi-db" target="8" />
+      <module name="uddi-jetty" target="8" />
+      <module name="uddi-jetty-server" target="8" />
+      <module name="uddi-tomcat" target="8" />
+      <module name="uddi-war-repackage" target="8" />
+      <module name="url-binding-tests" target="8" />
+      <module name="wab" target="8" />
+      <module name="wab-jetty" target="8" />
+      <module name="wab-tomcat" target="8" />
+      <module name="wadi-clustering" target="8" />
+      <module name="web-extender" target="8" />
+      <module name="web-forward-ear" target="8" />
+      <module name="web-forward-war-1" target="8" />
+      <module name="web-forward-war-2" target="8" />
+      <module name="web-jetty-server" target="8" />
+      <module name="web-references-ear" target="8" />
+      <module name="web-references-ejb" target="8" />
+      <module name="web-references-war" target="8" />
+      <module name="web-testsuite" target="8" />
+      <module name="web-tomcat-server" target="8" />
+      <module name="webbean-ejb-test" target="8" />
+      <module name="webbean-jpa-test" target="8" />
+      <module name="webbean-servlet-test" target="8" />
+      <module name="webbean1.0-test" target="8" />
+      <module name="webservices" target="8" />
+      <module name="webservices-axis2" target="8" />
+      <module name="webservices-common" target="8" />
+      <module name="webservices-testsuite" target="8" />
+      <module name="welcome" target="8" />
+      <module name="welcome-jetty" target="8" />
+      <module name="welcome-jetty-server" target="8" />
+      <module name="welcome-tomcat" target="8" />
+      <module name="welcome-tomcat-server" target="8" />
+      <module name="wink (1) (org.apache.geronimo.plugins)" target="8" />
+      <module name="wink (2) (org.apache.geronimo.configs)" target="8" />
+      <module name="wink-deployer" target="8" />
+      <module name="wink-tomcat-server" target="8" />
+      <module name="wsa-ear" target="8" />
+      <module name="wsa-ejb" target="8" />
+      <module name="wsa-test-war" target="8" />
+      <module name="wsa-war" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
