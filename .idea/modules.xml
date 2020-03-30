@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/require-bundle-test/CalculatorBeanBundle_B/CalculatorBeanBundle_B.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/require-bundle-test/CalculatorBeanBundle_B/CalculatorBeanBundle_B.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/require-bundle-test/CalculatorBeanBundle_C/CalculatorBeanBundle_C.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/require-bundle-test/CalculatorBeanBundle_C/CalculatorBeanBundle_C.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/require-bundle-test/CalculatorServletBundle_A/CalculatorServletBundle_A.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/require-bundle-test/CalculatorServletBundle_A/CalculatorServletBundle_A.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/require-bundle-test/RequireBundle-eba/RequireBundle-eba.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/require-bundle-test/RequireBundle-eba/RequireBundle-eba.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/require-bundle-test/Resolution-Optional-WAB/Resolution-Optional-WAB.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/require-bundle-test/Resolution-Optional-WAB/Resolution-Optional-WAB.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/require-bundle-test/Resolution-Optional-eba/Resolution-Optional-eba.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/require-bundle-test/Resolution-Optional-eba/Resolution-Optional-eba.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/activemq/activemq.iml" filepath="$PROJECT_DIR$/plugins/activemq/activemq.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/activemq/activemq-broker-blueprint/activemq-broker-blueprint.iml" filepath="$PROJECT_DIR$/plugins/activemq/activemq-broker-blueprint/activemq-broker-blueprint.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/activemq/activemq-console-jetty/activemq-console-jetty.iml" filepath="$PROJECT_DIR$/plugins/activemq/activemq-console-jetty/activemq-console-jetty.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/activemq/activemq-console-tomcat/activemq-console-tomcat.iml" filepath="$PROJECT_DIR$/plugins/activemq/activemq-console-tomcat/activemq-console-tomcat.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/activemq/activemq-jetty-server/activemq-jetty-server.iml" filepath="$PROJECT_DIR$/plugins/activemq/activemq-jetty-server/activemq-jetty-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/activemq/activemq-portlets/activemq-portlets.iml" filepath="$PROJECT_DIR$/plugins/activemq/activemq-portlets/activemq-portlets.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/activemq/activemq-ra/activemq-ra.iml" filepath="$PROJECT_DIR$/plugins/activemq/activemq-ra/activemq-ra.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/console-testsuite/advanced/advanced.iml" filepath="$PROJECT_DIR$/testsuite/console-testsuite/advanced/advanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/monitoring/agent-car-ejb/agent-car-ejb.iml" filepath="$PROJECT_DIR$/plugins/monitoring/agent-car-ejb/agent-car-ejb.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/monitoring/agent-car-jmx/agent-car-jmx.iml" filepath="$PROJECT_DIR$/plugins/monitoring/agent-car-jmx/agent-car-jmx.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/monitoring/agent-ds/agent-ds.iml" filepath="$PROJECT_DIR$/plugins/monitoring/agent-ds/agent-ds.iml" />
@@ -23,48 +15,27 @@
       <module fileurl="file://$PROJECT_DIR$/plugins/monitoring/agent-jar/agent-jar.iml" filepath="$PROJECT_DIR$/plugins/monitoring/agent-jar/agent-jar.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/monitoring/agent-jmx/agent-jmx.iml" filepath="$PROJECT_DIR$/plugins/monitoring/agent-jmx/agent-jmx.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/monitoring/agent-sql/agent-sql.iml" filepath="$PROJECT_DIR$/plugins/monitoring/agent-sql/agent-sql.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/enterprise-testsuite/appname-tests/appname-client/appname-client.iml" filepath="$PROJECT_DIR$/testsuite/enterprise-testsuite/appname-tests/appname-client/appname-client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/enterprise-testsuite/appname-tests/appname-ear/appname-ear.iml" filepath="$PROJECT_DIR$/testsuite/enterprise-testsuite/appname-tests/appname-ear/appname-ear.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/enterprise-testsuite/appname-tests/appname-tests.iml" filepath="$PROJECT_DIR$/testsuite/enterprise-testsuite/appname-tests/appname-tests.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/enterprise-testsuite/appname-tests/appname-war/appname-war.iml" filepath="$PROJECT_DIR$/testsuite/enterprise-testsuite/appname-tests/appname-war/appname-war.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/aries/aries/aries (1) (org.apache.geronimo.configs).iml" filepath="$PROJECT_DIR$/plugins/aries/aries/aries (1) (org.apache.geronimo.configs).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/aries/aries (2) (org.apache.geronimo.plugins).iml" filepath="$PROJECT_DIR$/plugins/aries/aries (2) (org.apache.geronimo.plugins).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/aries/aries-deployer/aries-deployer.iml" filepath="$PROJECT_DIR$/plugins/aries/aries-deployer/aries-deployer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/aries-testsuite.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/aries-testsuite.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/aspectj/aspectj/aspectj (1) (org.apache.geronimo.configs).iml" filepath="$PROJECT_DIR$/plugins/aspectj/aspectj/aspectj (1) (org.apache.geronimo.configs).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/aspectj/aspectj (2) (org.apache.geronimo.plugins).iml" filepath="$PROJECT_DIR$/plugins/aspectj/aspectj (2) (org.apache.geronimo.plugins).iml" />
       <module fileurl="file://$PROJECT_DIR$/assemblies/assemblies (1) (org.apache.geronimo.assemblies).iml" filepath="$PROJECT_DIR$/assemblies/assemblies (1) (org.apache.geronimo.assemblies).iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/assemblies/assemblies (2) (org.apache.geronimo.framework.assemblies).iml" filepath="$PROJECT_DIR$/framework/assemblies/assemblies (2) (org.apache.geronimo.framework.assemblies).iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/ejb3.1-test/asynEJB-test/asynEJB-test.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/ejb3.1-test/asynEJB-test/asynEJB-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/axis/axis/axis (1) (org.apache.geronimo.configs).iml" filepath="$PROJECT_DIR$/plugins/axis/axis/axis (1) (org.apache.geronimo.configs).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/axis/axis (2) (org.apache.geronimo.plugins).iml" filepath="$PROJECT_DIR$/plugins/axis/axis (2) (org.apache.geronimo.plugins).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/axis/axis-deployer/axis-deployer.iml" filepath="$PROJECT_DIR$/plugins/axis/axis-deployer/axis-deployer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/axis/axis-jetty-server/axis-jetty-server.iml" filepath="$PROJECT_DIR$/plugins/axis/axis-jetty-server/axis-jetty-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/axis2/axis2/axis2 (1) (org.apache.geronimo.configs).iml" filepath="$PROJECT_DIR$/plugins/axis2/axis2/axis2 (1) (org.apache.geronimo.configs).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/axis2/axis2 (2) (org.apache.geronimo.plugins).iml" filepath="$PROJECT_DIR$/plugins/axis2/axis2 (2) (org.apache.geronimo.plugins).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/axis2/axis2-deployer/axis2-deployer.iml" filepath="$PROJECT_DIR$/plugins/axis2/axis2-deployer/axis2-deployer.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/axis2/axis2-ejb/axis2-ejb.iml" filepath="$PROJECT_DIR$/plugins/axis2/axis2-ejb/axis2-ejb.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/axis2/axis2-ejb-deployer/axis2-ejb-deployer.iml" filepath="$PROJECT_DIR$/plugins/axis2/axis2-ejb-deployer/axis2-ejb-deployer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/console-testsuite/basic/basic.iml" filepath="$PROJECT_DIR$/testsuite/console-testsuite/basic/basic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/beanvalidation-tests/beanvalidation-ejb-test/beanvalidation-ejb-ear/beanvalidation-ejb-ear.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/beanvalidation-tests/beanvalidation-ejb-test/beanvalidation-ejb-ear/beanvalidation-ejb-ear.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/beanvalidation-tests/beanvalidation-ejb-test/beanvalidation-ejb-ejb/beanvalidation-ejb-ejb.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/beanvalidation-tests/beanvalidation-ejb-test/beanvalidation-ejb-ejb/beanvalidation-ejb-ejb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/beanvalidation-tests/beanvalidation-ejb-test/beanvalidation-ejb-test.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/beanvalidation-tests/beanvalidation-ejb-test/beanvalidation-ejb-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/beanvalidation-tests/beanvalidation-ejb-test/beanvalidation-ejb-war/beanvalidation-ejb-war.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/beanvalidation-tests/beanvalidation-ejb-test/beanvalidation-ejb-war/beanvalidation-ejb-war.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/beanvalidation-tests/beanvalidation-tests.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/beanvalidation-tests/beanvalidation-tests.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/beanvalidation-tests/beanvalidation-web-test/beanvalidation-web-test.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/beanvalidation-tests/beanvalidation-web-test/beanvalidation-web-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/buildsupport/buildsupport.iml" filepath="$PROJECT_DIR$/framework/buildsupport/buildsupport.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/buildsupport/buildsupport-maven-plugin/buildsupport-maven-plugin.iml" filepath="$PROJECT_DIR$/framework/buildsupport/buildsupport-maven-plugin/buildsupport-maven-plugin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/enterprise-testsuite/bundle-inject-test/bundle-inject-test.iml" filepath="$PROJECT_DIR$/testsuite/enterprise-testsuite/bundle-inject-test/bundle-inject-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/configs/bundle-recorder/bundle-recorder.iml" filepath="$PROJECT_DIR$/framework/configs/bundle-recorder/bundle-recorder.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/bval/bval.iml" filepath="$PROJECT_DIR$/plugins/bval/bval.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/bval/bval-deployer/bval-deployer.iml" filepath="$PROJECT_DIR$/plugins/bval/bval-deployer/bval-deployer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/ca-helper/ca-helper.iml" filepath="$PROJECT_DIR$/plugins/ca-helper/ca-helper.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/ca-helper/ca-helper-jetty/ca-helper-jetty.iml" filepath="$PROJECT_DIR$/plugins/ca-helper/ca-helper-jetty/ca-helper-jetty.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/ca-helper/ca-helper-tomcat/ca-helper-tomcat.iml" filepath="$PROJECT_DIR$/plugins/ca-helper/ca-helper-tomcat/ca-helper-tomcat.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/buildsupport/car-maven-plugin/car-maven-plugin.iml" filepath="$PROJECT_DIR$/framework/buildsupport/car-maven-plugin/car-maven-plugin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-catalog-tests/catalog-ear/catalog-ear.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-catalog-tests/catalog-ear/catalog-ear.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-catalog-tests/catalog-ejb/catalog-ejb.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-catalog-tests/catalog-ejb/catalog-ejb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-catalog-tests/catalog-war/catalog-war.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-catalog-tests/catalog-war/catalog-war.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/client/client/client (1) (org.apache.geronimo.configs).iml" filepath="$PROJECT_DIR$/plugins/client/client/client (1) (org.apache.geronimo.configs).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/client/client (2) (org.apache.geronimo.plugins).iml" filepath="$PROJECT_DIR$/plugins/client/client (2) (org.apache.geronimo.plugins).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/corba/client-corba-yoko/client-corba-yoko.iml" filepath="$PROJECT_DIR$/plugins/corba/client-corba-yoko/client-corba-yoko.iml" />
@@ -74,9 +45,6 @@
       <module fileurl="file://$PROJECT_DIR$/plugins/connector-1_6/client-transaction-1_6/client-transaction-1_6.iml" filepath="$PROJECT_DIR$/plugins/connector-1_6/client-transaction-1_6/client-transaction-1_6.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugingroups/client/clientgroup.iml" filepath="$PROJECT_DIR$/plugingroups/client/clientgroup.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/clustering/clustering.iml" filepath="$PROJECT_DIR$/plugins/clustering/clustering.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/clustering/clustering/clustering (1) (org.apache.geronimo.configs).iml" filepath="$PROJECT_DIR$/plugins/clustering/clustering/clustering (1) (org.apache.geronimo.configs).iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/commands-testsuite/commands-testsuite.iml" filepath="$PROJECT_DIR$/testsuite/commands-testsuite/commands-testsuite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/commonannotation1.1-test/commonannotation1.1-test.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/commonannotation1.1-test/commonannotation1.1-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/configs/configs.iml" filepath="$PROJECT_DIR$/framework/configs/configs.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/connector-1_6/connector-1_6.iml" filepath="$PROJECT_DIR$/plugins/connector-1_6/connector-1_6.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/connector-1_6/connector-deployer-1_6/connector-deployer-1_6.iml" filepath="$PROJECT_DIR$/plugins/connector-1_6/connector-deployer-1_6/connector-deployer-1_6.iml" />
@@ -87,33 +55,10 @@
       <module fileurl="file://$PROJECT_DIR$/plugins/console/console-filter/console-filter.iml" filepath="$PROJECT_DIR$/plugins/console/console-filter/console-filter.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugingroups/console-jetty/console-jetty (1) (org.apache.geronimo.plugingroups).iml" filepath="$PROJECT_DIR$/plugingroups/console-jetty/console-jetty (1) (org.apache.geronimo.plugingroups).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/console/console-jetty/console-jetty (2) (org.apache.geronimo.plugins).iml" filepath="$PROJECT_DIR$/plugins/console/console-jetty/console-jetty (2) (org.apache.geronimo.plugins).iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/console/console-jetty-server/console-jetty-server.iml" filepath="$PROJECT_DIR$/plugins/console/console-jetty-server/console-jetty-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/console/console-portal-driver/console-portal-driver.iml" filepath="$PROJECT_DIR$/plugins/console/console-portal-driver/console-portal-driver.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/console-testsuite/console-testsuite.iml" filepath="$PROJECT_DIR$/testsuite/console-testsuite/console-testsuite.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugingroups/console-tomcat/console-tomcat (1) (org.apache.geronimo.plugingroups).iml" filepath="$PROJECT_DIR$/plugingroups/console-tomcat/console-tomcat (1) (org.apache.geronimo.plugingroups).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/console/console-tomcat/console-tomcat (2) (org.apache.geronimo.plugins).iml" filepath="$PROJECT_DIR$/plugins/console/console-tomcat/console-tomcat (2) (org.apache.geronimo.plugins).iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/console/console-tomcat-server/console-tomcat-server.iml" filepath="$PROJECT_DIR$/plugins/console/console-tomcat-server/console-tomcat-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/webbean1.0-test/conversation-test/conversation-test.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/webbean1.0-test/conversation-test/conversation-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/corba/corba.iml" filepath="$PROJECT_DIR$/plugins/corba/corba.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/corba-testsuite/corba-helloworld/corba-helloworld.iml" filepath="$PROJECT_DIR$/testsuite/corba-testsuite/corba-helloworld/corba-helloworld.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/corba-testsuite/corba-helloworld/corba-helloworld-client/corba-helloworld-client.iml" filepath="$PROJECT_DIR$/testsuite/corba-testsuite/corba-helloworld/corba-helloworld-client/corba-helloworld-client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/corba-testsuite/corba-helloworld/corba-helloworld-ear/corba-helloworld-ear.iml" filepath="$PROJECT_DIR$/testsuite/corba-testsuite/corba-helloworld/corba-helloworld-ear/corba-helloworld-ear.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/corba-testsuite/corba-helloworld/corba-helloworld-ejb/corba-helloworld-ejb.iml" filepath="$PROJECT_DIR$/testsuite/corba-testsuite/corba-helloworld/corba-helloworld-ejb/corba-helloworld-ejb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/corba-testsuite/corba-helloworld/corba-helloworld-war/corba-helloworld-war.iml" filepath="$PROJECT_DIR$/testsuite/corba-testsuite/corba-helloworld/corba-helloworld-war/corba-helloworld-war.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/corba-testsuite/corba-marshal/corba-marshal.iml" filepath="$PROJECT_DIR$/testsuite/corba-testsuite/corba-marshal/corba-marshal.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/corba-testsuite/corba-marshal/corba-marshal-client/corba-marshal-client.iml" filepath="$PROJECT_DIR$/testsuite/corba-testsuite/corba-marshal/corba-marshal-client/corba-marshal-client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/corba-testsuite/corba-marshal/corba-marshal-ear/corba-marshal-ear.iml" filepath="$PROJECT_DIR$/testsuite/corba-testsuite/corba-marshal/corba-marshal-ear/corba-marshal-ear.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/corba-testsuite/corba-marshal/corba-marshal-ejb/corba-marshal-ejb.iml" filepath="$PROJECT_DIR$/testsuite/corba-testsuite/corba-marshal/corba-marshal-ejb/corba-marshal-ejb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/corba-testsuite/corba-mytime/corba-mytime.iml" filepath="$PROJECT_DIR$/testsuite/corba-testsuite/corba-mytime/corba-mytime.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/corba-testsuite/corba-mytime/corba-mytime-ear/corba-mytime-ear.iml" filepath="$PROJECT_DIR$/testsuite/corba-testsuite/corba-mytime/corba-mytime-ear/corba-mytime-ear.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/corba-testsuite/corba-mytime/corba-mytime-ejb/corba-mytime-ejb.iml" filepath="$PROJECT_DIR$/testsuite/corba-testsuite/corba-mytime/corba-mytime-ejb/corba-mytime-ejb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/corba-testsuite/corba-mytime/corba-mytime-war/corba-mytime-war.iml" filepath="$PROJECT_DIR$/testsuite/corba-testsuite/corba-mytime/corba-mytime-war/corba-mytime-war.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/corba/corba-server/corba-server.iml" filepath="$PROJECT_DIR$/plugins/corba/corba-server/corba-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/corba-testsuite/corba-testsuite.iml" filepath="$PROJECT_DIR$/testsuite/corba-testsuite/corba-testsuite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/osgi-service-custom/custom-api/custom-api.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/osgi-service-custom/custom-api/custom-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/osgi-service-custom/custom-eba/custom-eba.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/osgi-service-custom/custom-eba/custom-eba.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/osgi-service-custom/custom-impl/custom-impl.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/osgi-service-custom/custom-impl/custom-impl.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/osgi-service-custom/custom-wab/custom-wab.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/osgi-service-custom/custom-wab/custom-wab.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/cxf/cxf/cxf (1) (org.apache.geronimo.configs).iml" filepath="$PROJECT_DIR$/plugins/cxf/cxf/cxf (1) (org.apache.geronimo.configs).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/cxf/cxf (2) (org.apache.geronimo.plugins).iml" filepath="$PROJECT_DIR$/plugins/cxf/cxf (2) (org.apache.geronimo.plugins).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/cxf/cxf-deployer/cxf-deployer.iml" filepath="$PROJECT_DIR$/plugins/cxf/cxf-deployer/cxf-deployer.iml" />
@@ -124,34 +69,9 @@
       <module fileurl="file://$PROJECT_DIR$/plugins/debugviews/debugviews-console-jetty/debugviews-console-jetty.iml" filepath="$PROJECT_DIR$/plugins/debugviews/debugviews-console-jetty/debugviews-console-jetty.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/debugviews/debugviews-console-tomcat/debugviews-console-tomcat.iml" filepath="$PROJECT_DIR$/plugins/debugviews/debugviews-console-tomcat/debugviews-console-tomcat.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/debugviews/debugviews-portlets/debugviews-portlets.iml" filepath="$PROJECT_DIR$/plugins/debugviews/debugviews-portlets/debugviews-portlets.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/commands-testsuite/deploy/deploy.iml" filepath="$PROJECT_DIR$/testsuite/commands-testsuite/deploy/deploy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/deployment-testsuite/deployment-tests/deployment-tests.iml" filepath="$PROJECT_DIR$/testsuite/deployment-testsuite/deployment-tests/deployment-tests.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/deployment-testsuite/deployment-testsuite.iml" filepath="$PROJECT_DIR$/testsuite/deployment-testsuite/deployment-testsuite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/di1.0-test/di1.0-test.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/di1.0-test/di1.0-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/ds-jndi/ds-db/ds-db.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/ds-jndi/ds-db/ds-db.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/ds-jndi/ds-eba/ds-eba.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/ds-jndi/ds-eba/ds-eba.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/ds-jndi/ds-jndi.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/ds-jndi/ds-jndi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/ds-jndi/ds-wab/ds-wab.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/ds-jndi/ds-wab/ds-wab.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugingroups/eba-jetty/eba-jetty.iml" filepath="$PROJECT_DIR$/plugingroups/eba-jetty/eba-jetty.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugingroups/eba-tomcat/eba-tomcat.iml" filepath="$PROJECT_DIR$/plugingroups/eba-tomcat/eba-tomcat.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugingroups/ejb/ejb.iml" filepath="$PROJECT_DIR$/plugingroups/ejb/ejb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/ejb-osgi-service/ejb-api/ejb-api.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/ejb-osgi-service/ejb-api/ejb-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/enterprise-testsuite/ejb-tests/ejb-ear/ejb-ear.iml" filepath="$PROJECT_DIR$/testsuite/enterprise-testsuite/ejb-tests/ejb-ear/ejb-ear.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/ejb-osgi-service/ejb-eba/ejb-eba.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/ejb-osgi-service/ejb-eba/ejb-eba.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/enterprise-testsuite/ejb-tests/ejb-ejb/ejb-ejb.iml" filepath="$PROJECT_DIR$/testsuite/enterprise-testsuite/ejb-tests/ejb-ejb/ejb-ejb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/ejb-osgi-service/ejb-impl/ejb-impl.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/ejb-osgi-service/ejb-impl/ejb-impl.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/ejb-osgi-service/ejb-osgi-service.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/ejb-osgi-service/ejb-osgi-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/enterprise-testsuite/ejb-tests/ejb-tests.iml" filepath="$PROJECT_DIR$/testsuite/enterprise-testsuite/ejb-tests/ejb-tests.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/ejb-osgi-service/ejb-wab/ejb-wab.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/ejb-osgi-service/ejb-wab/ejb-wab.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/enterprise-testsuite/ejb-tests/ejb-war/ejb-war.iml" filepath="$PROJECT_DIR$/testsuite/enterprise-testsuite/ejb-tests/ejb-war/ejb-war.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/ejb3.1-test/ejb3.1-test.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/ejb3.1-test/ejb3.1-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/ejb3.1lite-test/ejb3.1lite-test.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/ejb3.1lite-test/ejb3.1lite-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/el2.2-test/el2.2-test.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/el2.2-test/el2.2-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/enterprise-testsuite/enterprise-testsuite.iml" filepath="$PROJECT_DIR$/testsuite/enterprise-testsuite/enterprise-testsuite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/clustering/farming/farming.iml" filepath="$PROJECT_DIR$/plugins/clustering/farming/farming.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/servlet3.0-test/fragment1/fragment1.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/servlet3.0-test/fragment1/fragment1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/servlet3.0-test/fragment2/fragment2.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/servlet3.0-test/fragment2/fragment2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/servlet3.0-test/fragment3/fragment3.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/servlet3.0-test/fragment3/fragment3.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/plugingroups/framework/framework (1) (org.apache.geronimo.framework.plugingroups).iml" filepath="$PROJECT_DIR$/framework/plugingroups/framework/framework (1) (org.apache.geronimo.framework.plugingroups).iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/framework (2) (org.apache.geronimo.framework).iml" filepath="$PROJECT_DIR$/framework/framework (2) (org.apache.geronimo.framework).iml" />
       <module fileurl="file://$PROJECT_DIR$/geronimo.iml" filepath="$PROJECT_DIR$/geronimo.iml" />
@@ -175,16 +95,12 @@
       <module fileurl="file://$PROJECT_DIR$/framework/modules/geronimo-bundle-recorder/geronimo-bundle-recorder.iml" filepath="$PROJECT_DIR$/framework/modules/geronimo-bundle-recorder/geronimo-bundle-recorder.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/bval/geronimo-bval/geronimo-bval.iml" filepath="$PROJECT_DIR$/plugins/bval/geronimo-bval/geronimo-bval.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/bval/geronimo-bval-builder/geronimo-bval-builder.iml" filepath="$PROJECT_DIR$/plugins/bval/geronimo-bval-builder/geronimo-bval-builder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/ca-helper/geronimo-ca-helper/geronimo-ca-helper.iml" filepath="$PROJECT_DIR$/plugins/ca-helper/geronimo-ca-helper/geronimo-ca-helper.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/modules/geronimo-cli/geronimo-cli.iml" filepath="$PROJECT_DIR$/framework/modules/geronimo-cli/geronimo-cli.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/client/geronimo-client/geronimo-client.iml" filepath="$PROJECT_DIR$/plugins/client/geronimo-client/geronimo-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/client/geronimo-client-builder/geronimo-client-builder.iml" filepath="$PROJECT_DIR$/plugins/client/geronimo-client-builder/geronimo-client-builder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/clustering/geronimo-clustering/geronimo-clustering.iml" filepath="$PROJECT_DIR$/plugins/clustering/geronimo-clustering/geronimo-clustering.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/clustering/geronimo-clustering-wadi/geronimo-clustering-wadi.iml" filepath="$PROJECT_DIR$/plugins/clustering/geronimo-clustering-wadi/geronimo-clustering-wadi.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/modules/geronimo-common/geronimo-common.iml" filepath="$PROJECT_DIR$/framework/modules/geronimo-common/geronimo-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/connector-1_6/geronimo-connector-1_6/geronimo-connector-1_6.iml" filepath="$PROJECT_DIR$/plugins/connector-1_6/geronimo-connector-1_6/geronimo-connector-1_6.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/connector-1_6/geronimo-connector-builder-1_6/geronimo-connector-builder-1_6.iml" filepath="$PROJECT_DIR$/plugins/connector-1_6/geronimo-connector-builder-1_6/geronimo-connector-builder-1_6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/connector-1_6/geronimo-connector-server/geronimo-connector-server.iml" filepath="$PROJECT_DIR$/plugins/connector-1_6/geronimo-connector-server/geronimo-connector-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/console/geronimo-converter/geronimo-converter.iml" filepath="$PROJECT_DIR$/plugins/console/geronimo-converter/geronimo-converter.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/corba/geronimo-corba/geronimo-corba.iml" filepath="$PROJECT_DIR$/plugins/corba/geronimo-corba/geronimo-corba.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/corba/geronimo-corba-builder/geronimo-corba-builder.iml" filepath="$PROJECT_DIR$/plugins/corba/geronimo-corba-builder/geronimo-corba-builder.iml" />
@@ -195,14 +111,12 @@
       <module fileurl="file://$PROJECT_DIR$/plugins/cxf/geronimo-cxf-ejb/geronimo-cxf-ejb.iml" filepath="$PROJECT_DIR$/plugins/cxf/geronimo-cxf-ejb/geronimo-cxf-ejb.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/cxf/geronimo-cxf-ejb-builder/geronimo-cxf-ejb-builder.iml" filepath="$PROJECT_DIR$/plugins/cxf/geronimo-cxf-ejb-builder/geronimo-cxf-ejb-builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/modules/geronimo-deploy-config/geronimo-deploy-config.iml" filepath="$PROJECT_DIR$/framework/modules/geronimo-deploy-config/geronimo-deploy-config.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/clustering/geronimo-deploy-farm/geronimo-deploy-farm.iml" filepath="$PROJECT_DIR$/plugins/clustering/geronimo-deploy-farm/geronimo-deploy-farm.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/modules/geronimo-deploy-jsr88/geronimo-deploy-jsr88.iml" filepath="$PROJECT_DIR$/framework/modules/geronimo-deploy-jsr88/geronimo-deploy-jsr88.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/modules/geronimo-deploy-jsr88-bootstrapper/geronimo-deploy-jsr88-bootstrapper.iml" filepath="$PROJECT_DIR$/framework/modules/geronimo-deploy-jsr88-bootstrapper/geronimo-deploy-jsr88-bootstrapper.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/modules/geronimo-deploy-jsr88-full/geronimo-deploy-jsr88-full.iml" filepath="$PROJECT_DIR$/framework/modules/geronimo-deploy-jsr88-full/geronimo-deploy-jsr88-full.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/modules/geronimo-deploy-tool/geronimo-deploy-tool.iml" filepath="$PROJECT_DIR$/framework/modules/geronimo-deploy-tool/geronimo-deploy-tool.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/modules/geronimo-deployment/geronimo-deployment.iml" filepath="$PROJECT_DIR$/framework/modules/geronimo-deployment/geronimo-deployment.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/system-database/geronimo-derby/geronimo-derby.iml" filepath="$PROJECT_DIR$/plugins/system-database/geronimo-derby/geronimo-derby.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/clustering/geronimo-farm/geronimo-farm.iml" filepath="$PROJECT_DIR$/plugins/clustering/geronimo-farm/geronimo-farm.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/assemblies/geronimo-framework/geronimo-framework.iml" filepath="$PROJECT_DIR$/framework/assemblies/geronimo-framework/geronimo-framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/configs/geronimo-gbean-deployer/geronimo-gbean-deployer.iml" filepath="$PROJECT_DIR$/framework/configs/geronimo-gbean-deployer/geronimo-gbean-deployer.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/configs/geronimo-gbean-deployer-bootstrap/geronimo-gbean-deployer-bootstrap.iml" filepath="$PROJECT_DIR$/framework/configs/geronimo-gbean-deployer-bootstrap/geronimo-gbean-deployer-bootstrap.iml" />
@@ -219,13 +133,6 @@
       <module fileurl="file://$PROJECT_DIR$/plugins/jaxws/geronimo-jaxws-ejb-builder/geronimo-jaxws-ejb-builder.iml" filepath="$PROJECT_DIR$/plugins/jaxws/geronimo-jaxws-ejb-builder/geronimo-jaxws-ejb-builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/jaxws/geronimo-jaxws-sun-tools/geronimo-jaxws-sun-tools.iml" filepath="$PROJECT_DIR$/plugins/jaxws/geronimo-jaxws-sun-tools/geronimo-jaxws-sun-tools.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/modules/geronimo-jdbc/geronimo-jdbc.iml" filepath="$PROJECT_DIR$/framework/modules/geronimo-jdbc/geronimo-jdbc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/jetty8/geronimo-jetty8/geronimo-jetty8.iml" filepath="$PROJECT_DIR$/plugins/jetty8/geronimo-jetty8/geronimo-jetty8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/jetty8/geronimo-jetty8-builder/geronimo-jetty8-builder.iml" filepath="$PROJECT_DIR$/plugins/jetty8/geronimo-jetty8-builder/geronimo-jetty8-builder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/jetty8/geronimo-jetty8-clustering-builder-wadi/geronimo-jetty8-clustering-builder-wadi.iml" filepath="$PROJECT_DIR$/plugins/jetty8/geronimo-jetty8-clustering-builder-wadi/geronimo-jetty8-clustering-builder-wadi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/jetty8/geronimo-jetty8-clustering-wadi/geronimo-jetty8-clustering-wadi.iml" filepath="$PROJECT_DIR$/plugins/jetty8/geronimo-jetty8-clustering-wadi/geronimo-jetty8-clustering-wadi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/assemblies/geronimo-jetty8-javaee6/geronimo-jetty8-javaee6.iml" filepath="$PROJECT_DIR$/assemblies/geronimo-jetty8-javaee6/geronimo-jetty8-javaee6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/assemblies/geronimo-jetty8-javaee6-web/geronimo-jetty8-javaee6-web.iml" filepath="$PROJECT_DIR$/assemblies/geronimo-jetty8-javaee6-web/geronimo-jetty8-javaee6-web.iml" />
-      <module fileurl="file://$PROJECT_DIR$/assemblies/geronimo-jetty8-minimal/geronimo-jetty8-minimal.iml" filepath="$PROJECT_DIR$/assemblies/geronimo-jetty8-minimal/geronimo-jetty8-minimal.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/modules/geronimo-jmx-remoting/geronimo-jmx-remoting.iml" filepath="$PROJECT_DIR$/framework/modules/geronimo-jmx-remoting/geronimo-jmx-remoting.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/modules/geronimo-kernel/geronimo-kernel.iml" filepath="$PROJECT_DIR$/framework/modules/geronimo-kernel/geronimo-kernel.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/javamail/geronimo-mail/geronimo-mail.iml" filepath="$PROJECT_DIR$/plugins/javamail/geronimo-mail/geronimo-mail.iml" />
@@ -238,11 +145,6 @@
       <module fileurl="file://$PROJECT_DIR$/framework/modules/geronimo-naming/geronimo-naming.iml" filepath="$PROJECT_DIR$/framework/modules/geronimo-naming/geronimo-naming.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/j2ee/geronimo-naming-builder/geronimo-naming-builder.iml" filepath="$PROJECT_DIR$/plugins/j2ee/geronimo-naming-builder/geronimo-naming-builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/modules/geronimo-obr/geronimo-obr.iml" filepath="$PROJECT_DIR$/framework/modules/geronimo-obr/geronimo-obr.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/openejb/geronimo-openejb/geronimo-openejb.iml" filepath="$PROJECT_DIR$/plugins/openejb/geronimo-openejb/geronimo-openejb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/openejb/geronimo-openejb-builder/geronimo-openejb-builder.iml" filepath="$PROJECT_DIR$/plugins/openejb/geronimo-openejb-builder/geronimo-openejb-builder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/openejb/geronimo-openejb-clustering-builder-wadi/geronimo-openejb-clustering-builder-wadi.iml" filepath="$PROJECT_DIR$/plugins/openejb/geronimo-openejb-clustering-builder-wadi/geronimo-openejb-clustering-builder-wadi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/openejb/geronimo-openejb-clustering-wadi/geronimo-openejb-clustering-wadi.iml" filepath="$PROJECT_DIR$/plugins/openejb/geronimo-openejb-clustering-wadi/geronimo-openejb-clustering-wadi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/openejb/geronimo-openejb-server/geronimo-openejb-server.iml" filepath="$PROJECT_DIR$/plugins/openejb/geronimo-openejb-server/geronimo-openejb-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/openjpa2/geronimo-openjpa2/geronimo-openjpa2.iml" filepath="$PROJECT_DIR$/plugins/openjpa2/geronimo-openjpa2/geronimo-openjpa2.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/openwebbeans/geronimo-openwebbeans/geronimo-openwebbeans.iml" filepath="$PROJECT_DIR$/plugins/openwebbeans/geronimo-openwebbeans/geronimo-openwebbeans.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/openwebbeans/geronimo-openwebbeans-builder/geronimo-openwebbeans-builder.iml" filepath="$PROJECT_DIR$/plugins/openwebbeans/geronimo-openwebbeans-builder/geronimo-openwebbeans-builder.iml" />
@@ -252,8 +154,6 @@
       <module fileurl="file://$PROJECT_DIR$/plugins/openjpa2/geronimo-persistence-jpa20-builder/geronimo-persistence-jpa20-builder.iml" filepath="$PROJECT_DIR$/plugins/openjpa2/geronimo-persistence-jpa20-builder/geronimo-persistence-jpa20-builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/modules/geronimo-plugin/geronimo-plugin.iml" filepath="$PROJECT_DIR$/framework/modules/geronimo-plugin/geronimo-plugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/buildsupport/geronimo-plugin-archetype/geronimo-plugin-archetype.iml" filepath="$PROJECT_DIR$/framework/buildsupport/geronimo-plugin-archetype/geronimo-plugin-archetype.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/clustering/geronimo-plugin-farm/geronimo-plugin-farm.iml" filepath="$PROJECT_DIR$/plugins/clustering/geronimo-plugin-farm/geronimo-plugin-farm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/clustering/geronimo-plugin-farm-node/geronimo-plugin-farm-node.iml" filepath="$PROJECT_DIR$/plugins/clustering/geronimo-plugin-farm-node/geronimo-plugin-farm-node.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/pluto/geronimo-pluto/geronimo-pluto.iml" filepath="$PROJECT_DIR$/plugins/pluto/geronimo-pluto/geronimo-pluto.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/buildsupport/geronimo-property-plugin/geronimo-property-plugin.iml" filepath="$PROJECT_DIR$/framework/buildsupport/geronimo-property-plugin/geronimo-property-plugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/remote-deploy/geronimo-remote-deploy/geronimo-remote-deploy.iml" filepath="$PROJECT_DIR$/plugins/remote-deploy/geronimo-remote-deploy/geronimo-remote-deploy.iml" />
@@ -267,10 +167,6 @@
       <module fileurl="file://$PROJECT_DIR$/framework/modules/geronimo-shell-diagnose/geronimo-shell-diagnose.iml" filepath="$PROJECT_DIR$/framework/modules/geronimo-shell-diagnose/geronimo-shell-diagnose.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/modules/geronimo-system/geronimo-system.iml" filepath="$PROJECT_DIR$/framework/modules/geronimo-system/geronimo-system.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/j2ee/geronimo-test-ddbean/geronimo-test-ddbean.iml" filepath="$PROJECT_DIR$/plugins/j2ee/geronimo-test-ddbean/geronimo-test-ddbean.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/tomcat/geronimo-tomcat7/geronimo-tomcat7.iml" filepath="$PROJECT_DIR$/plugins/tomcat/geronimo-tomcat7/geronimo-tomcat7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/tomcat/geronimo-tomcat7-builder/geronimo-tomcat7-builder.iml" filepath="$PROJECT_DIR$/plugins/tomcat/geronimo-tomcat7-builder/geronimo-tomcat7-builder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/tomcat/geronimo-tomcat7-clustering-builder-wadi/geronimo-tomcat7-clustering-builder-wadi.iml" filepath="$PROJECT_DIR$/plugins/tomcat/geronimo-tomcat7-clustering-builder-wadi/geronimo-tomcat7-clustering-builder-wadi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/tomcat/geronimo-tomcat7-clustering-wadi/geronimo-tomcat7-clustering-wadi.iml" filepath="$PROJECT_DIR$/plugins/tomcat/geronimo-tomcat7-clustering-wadi/geronimo-tomcat7-clustering-wadi.iml" />
       <module fileurl="file://$PROJECT_DIR$/assemblies/geronimo-tomcat7-javaee6/geronimo-tomcat7-javaee6.iml" filepath="$PROJECT_DIR$/assemblies/geronimo-tomcat7-javaee6/geronimo-tomcat7-javaee6.iml" />
       <module fileurl="file://$PROJECT_DIR$/assemblies/geronimo-tomcat7-javaee6-web/geronimo-tomcat7-javaee6-web.iml" filepath="$PROJECT_DIR$/assemblies/geronimo-tomcat7-javaee6-web/geronimo-tomcat7-javaee6-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/assemblies/geronimo-tomcat7-minimal/geronimo-tomcat7-minimal.iml" filepath="$PROJECT_DIR$/assemblies/geronimo-tomcat7-minimal/geronimo-tomcat7-minimal.iml" />
@@ -288,148 +184,57 @@
       <module fileurl="file://$PROJECT_DIR$/plugins/corba/geronimo-yoko/geronimo-yoko.iml" filepath="$PROJECT_DIR$/plugins/corba/geronimo-yoko/geronimo-yoko.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/hotdeploy/hot-deployer/hot-deployer.iml" filepath="$PROJECT_DIR$/plugins/hotdeploy/hot-deployer/hot-deployer.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/hotdeploy/hotdeploy.iml" filepath="$PROJECT_DIR$/plugins/hotdeploy/hotdeploy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/interceptors1.1-test/interceptors1.1-test.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/interceptors1.1-test/interceptors1.1-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/j2ee/j2ee.iml" filepath="$PROJECT_DIR$/plugins/j2ee/j2ee.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/corba/j2ee-corba-yoko/j2ee-corba-yoko.iml" filepath="$PROJECT_DIR$/plugins/corba/j2ee-corba-yoko/j2ee-corba-yoko.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/j2ee/j2ee-deployer/j2ee-deployer.iml" filepath="$PROJECT_DIR$/plugins/j2ee/j2ee-deployer/j2ee-deployer.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/configs/j2ee-security/j2ee-security.iml" filepath="$PROJECT_DIR$/framework/configs/j2ee-security/j2ee-security.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/j2ee/j2ee-server/j2ee-server.iml" filepath="$PROJECT_DIR$/plugins/j2ee/j2ee-server/j2ee-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/configs/j2ee-system/j2ee-system.iml" filepath="$PROJECT_DIR$/framework/configs/j2ee-system/j2ee-system.iml" />
-      <module fileurl="file://$PROJECT_DIR$/framework/configs/geronimo-gbean-deployer/src/it/j2ee-system-it1/j2ee-system-it1.iml" filepath="$PROJECT_DIR$/framework/configs/geronimo-gbean-deployer/src/it/j2ee-system-it1/j2ee-system-it1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/framework/configs/geronimo-gbean-deployer/src/it/j2ee-system-it2/j2ee-system-it2.iml" filepath="$PROJECT_DIR$/framework/configs/geronimo-gbean-deployer/src/it/j2ee-system-it2/j2ee-system-it2.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/jasper/jasper/jasper (1) (org.apache.geronimo.configs).iml" filepath="$PROJECT_DIR$/plugins/jasper/jasper/jasper (1) (org.apache.geronimo.configs).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/jasper/jasper (2) (org.apache.geronimo.plugins).iml" filepath="$PROJECT_DIR$/plugins/jasper/jasper (2) (org.apache.geronimo.plugins).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/jasper/jasper-deployer/jasper-deployer.iml" filepath="$PROJECT_DIR$/plugins/jasper/jasper-deployer/jasper-deployer.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/j2ee/javaee-builder-support/javaee-builder-support.iml" filepath="$PROJECT_DIR$/plugins/j2ee/javaee-builder-support/javaee-builder-support.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugingroups/javaee6-jetty/javaee6-jetty.iml" filepath="$PROJECT_DIR$/plugingroups/javaee6-jetty/javaee6-jetty.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/javaee6-testsuite.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/javaee6-testsuite.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugingroups/javaee6-tomcat/javaee6-tomcat.iml" filepath="$PROJECT_DIR$/plugingroups/javaee6-tomcat/javaee6-tomcat.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugingroups/javaee6-web-jetty/javaee6-web-jetty.iml" filepath="$PROJECT_DIR$/plugingroups/javaee6-web-jetty/javaee6-web-jetty.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugingroups/javaee6-web-tomcat/javaee6-web-tomcat.iml" filepath="$PROJECT_DIR$/plugingroups/javaee6-web-tomcat/javaee6-web-tomcat.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/javamail/javamail/javamail (1) (org.apache.geronimo.configs).iml" filepath="$PROJECT_DIR$/plugins/javamail/javamail/javamail (1) (org.apache.geronimo.configs).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/javamail/javamail (2) (org.apache.geronimo.plugins).iml" filepath="$PROJECT_DIR$/plugins/javamail/javamail (2) (org.apache.geronimo.plugins).iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxb-tests/jaxb-client/jaxb-client.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxb-tests/jaxb-client/jaxb-client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxb-tests/jaxb-ejb/jaxb-ejb.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxb-tests/jaxb-ejb/jaxb-ejb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxb-tests/jaxb-tests.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxb-tests/jaxb-tests.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxb-tests/jaxb-war/jaxb-war.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxb-tests/jaxb-war/jaxb-war.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxr-tests/jaxr-client/jaxr-client.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxr-tests/jaxr-client/jaxr-client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxr-tests/jaxr-ejb/jaxr-ejb.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxr-tests/jaxr-ejb/jaxr-ejb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxr-tests/jaxr-tests.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxr-tests/jaxr-tests.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxr-tests/jaxr-war/jaxr-war.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxr-tests/jaxr-war/jaxr-war.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxrpc-tests/jaxrpc-ejb/jaxrpc-ejb.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxrpc-tests/jaxrpc-ejb/jaxrpc-ejb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxrpc-jaxws-tests/jaxrpc-jaxws-tests.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxrpc-jaxws-tests/jaxrpc-jaxws-tests.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxrpc-jaxws-tests/jaxrpc-jaxws-war/jaxrpc-jaxws-war.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxrpc-jaxws-tests/jaxrpc-jaxws-war/jaxrpc-jaxws-war.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxrpc-tests/jaxrpc-tests.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxrpc-tests/jaxrpc-tests.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxrpc-tests/jaxrpc-war/jaxrpc-war.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxrpc-tests/jaxrpc-war/jaxrpc-war.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/jaxws/jaxws.iml" filepath="$PROJECT_DIR$/plugins/jaxws/jaxws.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/commands-testsuite/jaxws/jaxws (1) (org.apache.geronimo.testsuite).iml" filepath="$PROJECT_DIR$/testsuite/commands-testsuite/jaxws/jaxws (1) (org.apache.geronimo.testsuite).iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-catalog-tests/jaxws-catalog-tests.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-catalog-tests/jaxws-catalog-tests.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-tests/jaxws-client/jaxws-client.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-tests/jaxws-client/jaxws-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/jaxws/jaxws-deployer/jaxws-deployer.iml" filepath="$PROJECT_DIR$/plugins/jaxws/jaxws-deployer/jaxws-deployer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-tests/jaxws-ejb/jaxws-ejb.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-tests/jaxws-ejb/jaxws-ejb.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/jaxws/jaxws-ejb-deployer/jaxws-ejb-deployer.iml" filepath="$PROJECT_DIR$/plugins/jaxws/jaxws-ejb-deployer/jaxws-ejb-deployer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-tests/jaxws-ejb-sec/jaxws-ejb-sec.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-tests/jaxws-ejb-sec/jaxws-ejb-sec.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-mtom-tests/jaxws-mtom-tests.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-mtom-tests/jaxws-mtom-tests.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-tests/jaxws-partial/jaxws-partial.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-tests/jaxws-partial/jaxws-partial.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-provider-tests/jaxws-provider-tests.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-provider-tests/jaxws-provider-tests.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-tests/jaxws-rest-war/jaxws-rest-war.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-tests/jaxws-rest-war/jaxws-rest-war.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/jaxws/jaxws-sun-tools/jaxws-sun-tools.iml" filepath="$PROJECT_DIR$/plugins/jaxws/jaxws-sun-tools/jaxws-sun-tools.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-tests/jaxws-tests.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-tests/jaxws-tests.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/jaxws/jaxws-tools/jaxws-tools.iml" filepath="$PROJECT_DIR$/plugins/jaxws/jaxws-tools/jaxws-tools.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-tests/jaxws-war/jaxws-war.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-tests/jaxws-war/jaxws-war.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-tests/jaxws-war-sec/jaxws-war-sec.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-tests/jaxws-war-sec/jaxws-war-sec.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-wsa-tests/jaxws-wsa-tests.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-wsa-tests/jaxws-wsa-tests.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/deployment-testsuite/jca-cms-tests/jca-cms-ear/jca-cms-ear.iml" filepath="$PROJECT_DIR$/testsuite/deployment-testsuite/jca-cms-tests/jca-cms-ear/jca-cms-ear.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/deployment-testsuite/jca-cms-tests/jca-cms-tests.iml" filepath="$PROJECT_DIR$/testsuite/deployment-testsuite/jca-cms-tests/jca-cms-tests.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/deployment-testsuite/jca-cms-tests/jca-cms-war/jca-cms-war.iml" filepath="$PROJECT_DIR$/testsuite/deployment-testsuite/jca-cms-tests/jca-cms-war/jca-cms-war.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/jetty8/jetty-server/jetty-server.iml" filepath="$PROJECT_DIR$/plugins/jetty8/jetty-server/jetty-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/jetty8/jetty8.iml" filepath="$PROJECT_DIR$/plugins/jetty8/jetty8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/jetty8/jetty8/jetty8 (1) (org.apache.geronimo.configs).iml" filepath="$PROJECT_DIR$/plugins/jetty8/jetty8/jetty8 (1) (org.apache.geronimo.configs).iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/jetty8/jetty8-clustering-builder-wadi/jetty8-clustering-builder-wadi.iml" filepath="$PROJECT_DIR$/plugins/jetty8/jetty8-clustering-builder-wadi/jetty8-clustering-builder-wadi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/jetty8/jetty8-clustering-wadi/jetty8-clustering-wadi.iml" filepath="$PROJECT_DIR$/plugins/jetty8/jetty8-clustering-wadi/jetty8-clustering-wadi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/jetty8/jetty8-deployer/jetty8-deployer.iml" filepath="$PROJECT_DIR$/plugins/jetty8/jetty8-deployer/jetty8-deployer.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugingroups/jms/jms.iml" filepath="$PROJECT_DIR$/plugingroups/jms/jms.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/enterprise-testsuite/jms-tests/jms-ear/jms-ear.iml" filepath="$PROJECT_DIR$/testsuite/enterprise-testsuite/jms-tests/jms-ear/jms-ear.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/enterprise-testsuite/jms-tests/jms-ejb/jms-ejb.iml" filepath="$PROJECT_DIR$/testsuite/enterprise-testsuite/jms-tests/jms-ejb/jms-ejb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/enterprise-testsuite/jms-tests/jms-tests.iml" filepath="$PROJECT_DIR$/testsuite/enterprise-testsuite/jms-tests/jms-tests.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/enterprise-testsuite/jms-tests/jms-war/jms-war.iml" filepath="$PROJECT_DIR$/testsuite/enterprise-testsuite/jms-tests/jms-war/jms-war.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/configs/jmx-security/jmx-security.iml" filepath="$PROJECT_DIR$/framework/configs/jmx-security/jmx-security.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/jndi-infer-test/jndi-infer-test.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/jndi-infer-test/jndi-infer-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/ejb3.1-test/jndiEJB-test/jndiEJB-test.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/ejb3.1-test/jndiEJB-test/jndiEJB-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/jpa/jpa.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/jpa/jpa.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/enterprise-testsuite/jpa-tests/jpa-ear/jpa-ear.iml" filepath="$PROJECT_DIR$/testsuite/enterprise-testsuite/jpa-tests/jpa-ear/jpa-ear.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/jpa/jpa-eba/jpa-eba.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/jpa/jpa-eba/jpa-eba.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/enterprise-testsuite/jpa-tests/jpa-ejb/jpa-ejb.iml" filepath="$PROJECT_DIR$/testsuite/enterprise-testsuite/jpa-tests/jpa-ejb/jpa-ejb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/jpa/jpa-pu/jpa-pu.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/jpa/jpa-pu/jpa-pu.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/enterprise-testsuite/jpa-tests/jpa-tests.iml" filepath="$PROJECT_DIR$/testsuite/enterprise-testsuite/jpa-tests/jpa-tests.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/jpa/jpa-wab/jpa-wab.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/jpa/jpa-wab/jpa-wab.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/enterprise-testsuite/jpa-tests/jpa-war/jpa-war.iml" filepath="$PROJECT_DIR$/testsuite/enterprise-testsuite/jpa-tests/jpa-war/jpa-war.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/jpa2.0-test/jpa2.0-test.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/jpa2.0-test/jpa2.0-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/jsf/jsf.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/jsf/jsf.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/jsf/jsf-eba/jsf-eba.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/jsf/jsf-eba/jsf-eba.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/jsf/jsf-taglib/jsf-taglib.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/jsf/jsf-taglib/jsf-taglib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/jsf/jsf-wab/jsf-wab.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/jsf/jsf-wab/jsf-wab.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/jsf2.0-test/jsf2.0-test.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/jsf2.0-test/jsf2.0-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/jsp/jsp.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/jsp/jsp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/jsp/jsp-eba/jsp-eba.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/jsp/jsp-eba/jsp-eba.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/jsp/jsp-taglib/jsp-taglib.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/jsp/jsp-taglib/jsp-taglib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/jsp/jsp-wab/jsp-wab.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/jsp/jsp-wab/jsp-wab.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/jsp2.2-test/jsp2.2-test.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/jsp2.2-test/jsp2.2-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/configs/jsr88-cli/jsr88-cli.iml" filepath="$PROJECT_DIR$/framework/configs/jsr88-cli/jsr88-cli.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/configs/jsr88-deploymentfactory/jsr88-deploymentfactory.iml" filepath="$PROJECT_DIR$/framework/configs/jsr88-deploymentfactory/jsr88-deploymentfactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/j2ee/jsr88-ear-configurer/jsr88-ear-configurer.iml" filepath="$PROJECT_DIR$/plugins/j2ee/jsr88-ear-configurer/jsr88-ear-configurer.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/j2ee/jsr88-jar-configurer/jsr88-jar-configurer.iml" filepath="$PROJECT_DIR$/plugins/j2ee/jsr88-jar-configurer/jsr88-jar-configurer.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/j2ee/jsr88-rar-configurer/jsr88-rar-configurer.iml" filepath="$PROJECT_DIR$/plugins/j2ee/jsr88-rar-configurer/jsr88-rar-configurer.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/j2ee/jsr88-war-configurer/jsr88-war-configurer.iml" filepath="$PROJECT_DIR$/plugins/j2ee/jsr88-war-configurer/jsr88-war-configurer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/jta1.1-test/jta1.1-test.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/jta1.1-test/jta1.1-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/configs/karaf-framework/karaf-framework.iml" filepath="$PROJECT_DIR$/framework/configs/karaf-framework/karaf-framework.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/mail-osgi-service/mail-eba/mail-eba.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/mail-osgi-service/mail-eba/mail-eba.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/mail-osgi-service/mail-osgi-service.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/mail-osgi-service/mail-osgi-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/mail-osgi-service/mail-wab/mail-wab.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/mail-osgi-service/mail-wab/mail-wab.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/managedbean1.0-test/managedbean1.0-test.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/managedbean1.0-test/managedbean1.0-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/deployment-testsuite/manifestcp-tests/manifestcp-ear/manifestcp-ear.iml" filepath="$PROJECT_DIR$/testsuite/deployment-testsuite/manifestcp-tests/manifestcp-ear/manifestcp-ear.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/deployment-testsuite/manifestcp-tests/manifestcp-ejb/manifestcp-ejb.iml" filepath="$PROJECT_DIR$/testsuite/deployment-testsuite/manifestcp-tests/manifestcp-ejb/manifestcp-ejb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/deployment-testsuite/manifestcp-tests/manifestcp-jar/manifestcp-jar.iml" filepath="$PROJECT_DIR$/testsuite/deployment-testsuite/manifestcp-tests/manifestcp-jar/manifestcp-jar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/deployment-testsuite/manifestcp-tests/manifestcp-jar2/manifestcp-jar2.iml" filepath="$PROJECT_DIR$/testsuite/deployment-testsuite/manifestcp-tests/manifestcp-jar2/manifestcp-jar2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/deployment-testsuite/manifestcp-tests/manifestcp-tests.iml" filepath="$PROJECT_DIR$/testsuite/deployment-testsuite/manifestcp-tests/manifestcp-tests.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/deployment-testsuite/manifestcp-tests/manifestcp-war/manifestcp-war.iml" filepath="$PROJECT_DIR$/testsuite/deployment-testsuite/manifestcp-tests/manifestcp-war/manifestcp-war.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/deployment-testsuite/manifestcp-tests/manifestcp-war-jar/manifestcp-war-jar.iml" filepath="$PROJECT_DIR$/testsuite/deployment-testsuite/manifestcp-tests/manifestcp-war-jar/manifestcp-war-jar.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/monitoring/mconsole-ds/mconsole-ds.iml" filepath="$PROJECT_DIR$/plugins/monitoring/mconsole-ds/mconsole-ds.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/monitoring/mconsole-jetty/mconsole-jetty.iml" filepath="$PROJECT_DIR$/plugins/monitoring/mconsole-jetty/mconsole-jetty.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/monitoring/mconsole-jetty-server/mconsole-jetty-server.iml" filepath="$PROJECT_DIR$/plugins/monitoring/mconsole-jetty-server/mconsole-jetty-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/monitoring/mconsole-tomcat/mconsole-tomcat.iml" filepath="$PROJECT_DIR$/plugins/monitoring/mconsole-tomcat/mconsole-tomcat.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/monitoring/mconsole-war/mconsole-war.iml" filepath="$PROJECT_DIR$/plugins/monitoring/mconsole-war/mconsole-war.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/mejb/mejb/mejb (1) (org.apache.geronimo.configs).iml" filepath="$PROJECT_DIR$/plugins/mejb/mejb/mejb (1) (org.apache.geronimo.configs).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/mejb/mejb (2) (org.apache.geronimo.plugins).iml" filepath="$PROJECT_DIR$/plugins/mejb/mejb (2) (org.apache.geronimo.plugins).iml" />
-      <module fileurl="file://$PROJECT_DIR$/framework/configs/geronimo-gbean-deployer/src/it/metadatageneration-it3/metadatageneration-it3.iml" filepath="$PROJECT_DIR$/framework/configs/geronimo-gbean-deployer/src/it/metadatageneration-it3/metadatageneration-it3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/framework/configs/geronimo-gbean-deployer/src/it/metadatageneration-it4/metadatatest-it4.iml" filepath="$PROJECT_DIR$/framework/configs/geronimo-gbean-deployer/src/it/metadatageneration-it4/metadatatest-it4.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/modules/modules.iml" filepath="$PROJECT_DIR$/framework/modules/modules.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/monitoring/monitoring.iml" filepath="$PROJECT_DIR$/plugins/monitoring/monitoring.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-mtom-tests/mtom-ear/mtom-ear.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-mtom-tests/mtom-ear/mtom-ear.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-mtom-tests/mtom-ejb/mtom-ejb.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-mtom-tests/mtom-ejb/mtom-ejb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-mtom-tests/mtom-test-war/mtom-test-war.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-mtom-tests/mtom-test-war/mtom-test-war.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-mtom-tests/mtom-war/mtom-war.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-mtom-tests/mtom-war/mtom-war.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/myfaces/myfaces/myfaces (1) (org.apache.geronimo.configs).iml" filepath="$PROJECT_DIR$/plugins/myfaces/myfaces/myfaces (1) (org.apache.geronimo.configs).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/myfaces/myfaces (2) (org.apache.geronimo.plugins).iml" filepath="$PROJECT_DIR$/plugins/myfaces/myfaces (2) (org.apache.geronimo.plugins).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/myfaces/myfaces-deployer/myfaces-deployer.iml" filepath="$PROJECT_DIR$/plugins/myfaces/myfaces-deployer/myfaces-deployer.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/configs/offline-deployer/offline-deployer.iml" filepath="$PROJECT_DIR$/framework/configs/offline-deployer/offline-deployer.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/configs/online-deployer/online-deployer.iml" filepath="$PROJECT_DIR$/framework/configs/online-deployer/online-deployer.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/openejb/openejb.iml" filepath="$PROJECT_DIR$/plugins/openejb/openejb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/openejb/openejb/openejb (1) (org.apache.geronimo.configs).iml" filepath="$PROJECT_DIR$/plugins/openejb/openejb/openejb (1) (org.apache.geronimo.configs).iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/openejb/openejb-client/openejb-client.iml" filepath="$PROJECT_DIR$/plugins/openejb/openejb-client/openejb-client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/openejb/openejb-clustering-builder-wadi/openejb-clustering-builder-wadi.iml" filepath="$PROJECT_DIR$/plugins/openejb/openejb-clustering-builder-wadi/openejb-clustering-builder-wadi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/openejb/openejb-clustering-wadi/openejb-clustering-wadi.iml" filepath="$PROJECT_DIR$/plugins/openejb/openejb-clustering-wadi/openejb-clustering-wadi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/openejb/openejb-console-jetty/openejb-console-jetty.iml" filepath="$PROJECT_DIR$/plugins/openejb/openejb-console-jetty/openejb-console-jetty.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/openejb/openejb-console-tomcat/openejb-console-tomcat.iml" filepath="$PROJECT_DIR$/plugins/openejb/openejb-console-tomcat/openejb-console-tomcat.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/corba/openejb-corba-deployer/openejb-corba-deployer.iml" filepath="$PROJECT_DIR$/plugins/corba/openejb-corba-deployer/openejb-corba-deployer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/openejb/openejb-deployer/openejb-deployer.iml" filepath="$PROJECT_DIR$/plugins/openejb/openejb-deployer/openejb-deployer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/openejb/openejb-portlets/openejb-portlets.iml" filepath="$PROJECT_DIR$/plugins/openejb/openejb-portlets/openejb-portlets.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/openjpa2/openjpa2/openjpa2 (1) (org.apache.geronimo.configs).iml" filepath="$PROJECT_DIR$/plugins/openjpa2/openjpa2/openjpa2 (1) (org.apache.geronimo.configs).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/openjpa2/openjpa2 (2) (org.apache.geronimo.plugins).iml" filepath="$PROJECT_DIR$/plugins/openjpa2/openjpa2 (2) (org.apache.geronimo.plugins).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/openwebbeans/openwebbeans/openwebbeans (1) (org.apache.geronimo.configs).iml" filepath="$PROJECT_DIR$/plugins/openwebbeans/openwebbeans/openwebbeans (1) (org.apache.geronimo.configs).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/openwebbeans/openwebbeans (2) (org.apache.geronimo.plugins).iml" filepath="$PROJECT_DIR$/plugins/openwebbeans/openwebbeans (2) (org.apache.geronimo.plugins).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/openwebbeans/openwebbeans-deployer/openwebbeans-deployer.iml" filepath="$PROJECT_DIR$/plugins/openwebbeans/openwebbeans-deployer/openwebbeans-deployer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/osgi-service-custom/osgi-service-custom.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/osgi-service-custom/osgi-service-custom.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugingroups/persistence/persistence.iml" filepath="$PROJECT_DIR$/plugingroups/persistence/persistence.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/openjpa2/persistence-jpa20-deployer/persistence-jpa20-deployer.iml" filepath="$PROJECT_DIR$/plugins/openjpa2/persistence-jpa20-deployer/persistence-jpa20-deployer.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/plancreator/plancreator.iml" filepath="$PROJECT_DIR$/plugins/plancreator/plancreator.iml" />
@@ -439,9 +244,6 @@
       <module fileurl="file://$PROJECT_DIR$/framework/configs/plugin/plugin.iml" filepath="$PROJECT_DIR$/framework/configs/plugin/plugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/console/plugin-console-jetty/plugin-console-jetty.iml" filepath="$PROJECT_DIR$/plugins/console/plugin-console-jetty/plugin-console-jetty.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/console/plugin-console-tomcat/plugin-console-tomcat.iml" filepath="$PROJECT_DIR$/plugins/console/plugin-console-tomcat/plugin-console-tomcat.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/clustering/plugin-farm/plugin-farm.iml" filepath="$PROJECT_DIR$/plugins/clustering/plugin-farm/plugin-farm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/clustering/plugin-farm-datasource/plugin-farm-datasource.iml" filepath="$PROJECT_DIR$/plugins/clustering/plugin-farm-datasource/plugin-farm-datasource.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/clustering/plugin-farm-member/plugin-farm-member.iml" filepath="$PROJECT_DIR$/plugins/clustering/plugin-farm-member/plugin-farm-member.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/console/plugin-portlets/plugin-portlets.iml" filepath="$PROJECT_DIR$/plugins/console/plugin-portlets/plugin-portlets.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/plugingroups/plugingroups (1) (org.apache.geronimo.framework.plugingroups).iml" filepath="$PROJECT_DIR$/framework/plugingroups/plugingroups (1) (org.apache.geronimo.framework.plugingroups).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugingroups/plugingroups (2) (org.apache.geronimo.plugingroups).iml" filepath="$PROJECT_DIR$/plugingroups/plugingroups (2) (org.apache.geronimo.plugingroups).iml" />
@@ -449,55 +251,20 @@
       <module fileurl="file://$PROJECT_DIR$/plugins/pluto/pluto.iml" filepath="$PROJECT_DIR$/plugins/pluto/pluto.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/pluto/pluto-support/pluto-support.iml" filepath="$PROJECT_DIR$/plugins/pluto/pluto-support/pluto-support.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/procrun/procrun.iml" filepath="$PROJECT_DIR$/plugins/procrun/procrun.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-provider-tests/provider-common/provider-common.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-provider-tests/provider-common/provider-common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-provider-tests/provider-ear/provider-ear.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-provider-tests/provider-ear/provider-ear.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-provider-tests/provider-ejb/provider-ejb.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-provider-tests/provider-ejb/provider-ejb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-provider-tests/provider-test-war/provider-test-war.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-provider-tests/provider-test-war/provider-test-war.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-provider-tests/provider-war/provider-war.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-provider-tests/provider-war/provider-war.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/remote-deploy/remote-deploy.iml" filepath="$PROJECT_DIR$/plugins/remote-deploy/remote-deploy.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/remote-deploy/remote-deploy-jetty/remote-deploy-jetty.iml" filepath="$PROJECT_DIR$/plugins/remote-deploy/remote-deploy-jetty/remote-deploy-jetty.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/remote-deploy/remote-deploy-tomcat/remote-deploy-tomcat.iml" filepath="$PROJECT_DIR$/plugins/remote-deploy/remote-deploy-tomcat/remote-deploy-tomcat.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/require-bundle-test/require-bundle-test.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/require-bundle-test/require-bundle-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/restful-test/restful-test.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/restful-test/restful-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/configs/rmi-naming/rmi-naming.iml" filepath="$PROJECT_DIR$/framework/configs/rmi-naming/rmi-naming.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/saaj-tests/saaj-client/saaj-client.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/saaj-tests/saaj-client/saaj-client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/saaj-tests/saaj-tests.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/saaj-tests/saaj-tests.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/saaj-tests/saaj-war/saaj-war.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/saaj-tests/saaj-war/saaj-war.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/enterprise-testsuite/sec-tests/sec-client/sec-client.iml" filepath="$PROJECT_DIR$/testsuite/enterprise-testsuite/sec-tests/sec-client/sec-client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/enterprise-testsuite/sec-client-tests/sec-client-tests.iml" filepath="$PROJECT_DIR$/testsuite/enterprise-testsuite/sec-client-tests/sec-client-tests.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/enterprise-testsuite/sec-tests/sec-ear/sec-ear.iml" filepath="$PROJECT_DIR$/testsuite/enterprise-testsuite/sec-tests/sec-ear/sec-ear.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/enterprise-testsuite/sec-tests/sec-ejb/sec-ejb.iml" filepath="$PROJECT_DIR$/testsuite/enterprise-testsuite/sec-tests/sec-ejb/sec-ejb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/enterprise-testsuite/sec-tests/sec-tests.iml" filepath="$PROJECT_DIR$/testsuite/enterprise-testsuite/sec-tests/sec-tests.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/enterprise-testsuite/sec-tests/sec-war/sec-war.iml" filepath="$PROJECT_DIR$/testsuite/enterprise-testsuite/sec-tests/sec-war/sec-war.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/security-testsuite/test-security-annotation-ejb/security-ejb-ear/security-ejb-ear.iml" filepath="$PROJECT_DIR$/testsuite/security-testsuite/test-security-annotation-ejb/security-ejb-ear/security-ejb-ear.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/security-testsuite/test-security-annotation-ejb/security-ejb-ejb/security-ejb-ejb.iml" filepath="$PROJECT_DIR$/testsuite/security-testsuite/test-security-annotation-ejb/security-ejb-ejb/security-ejb-ejb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/security-testsuite/test-security-annotation-ejb/security-ejb-war/security-ejb-war.iml" filepath="$PROJECT_DIR$/testsuite/security-testsuite/test-security-annotation-ejb/security-ejb-war/security-ejb-war.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/security-testsuite/security-testsuite.iml" filepath="$PROJECT_DIR$/testsuite/security-testsuite/security-testsuite.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/configs/server-security-config/server-security-config.iml" filepath="$PROJECT_DIR$/framework/configs/server-security-config/server-security-config.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/servlet3.0-security-test/servlet3.0-security-test.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/servlet3.0-security-test/servlet3.0-security-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/servlet3.0-test/servlet3.0-test.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/servlet3.0-test/servlet3.0-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/servlet3.0-test/servlet3.0-test-jar/servlet3.0-test-jar.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/servlet3.0-test/servlet3.0-test-jar/servlet3.0-test-jar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/servlet3.0-test/servlet3.0-test-war/servlet3.0-test-war.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/servlet3.0-test/servlet3.0-test-war/servlet3.0-test-war.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/sharedlib/sharedlib (1) (org.apache.geronimo.plugins).iml" filepath="$PROJECT_DIR$/plugins/sharedlib/sharedlib (1) (org.apache.geronimo.plugins).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/sharedlib/sharedlib/sharedlib (2) (org.apache.geronimo.configs).iml" filepath="$PROJECT_DIR$/plugins/sharedlib/sharedlib/sharedlib (2) (org.apache.geronimo.configs).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/sharedlib/sharedlib-extender/sharedlib-extender.iml" filepath="$PROJECT_DIR$/plugins/sharedlib/sharedlib-extender/sharedlib-extender.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/configs/shutdown/shutdown.iml" filepath="$PROJECT_DIR$/framework/configs/shutdown/shutdown.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/commands-testsuite/shutdown/shutdown (1) (org.apache.geronimo.testsuite).iml" filepath="$PROJECT_DIR$/testsuite/commands-testsuite/shutdown/shutdown (1) (org.apache.geronimo.testsuite).iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/simple/simple.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/simple/simple.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/simple/simple-api/simple-api.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/simple/simple-api/simple-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/simple/simple-eba/simple-eba.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/simple/simple-eba/simple-eba.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/aries-testsuite/simple/simple-wab/simple-wab.iml" filepath="$PROJECT_DIR$/testsuite/aries-testsuite/simple/simple-wab/simple-wab.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/stax-tests/stax-client/stax-client.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/stax-tests/stax-client/stax-client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/stax-tests/stax-ejb/stax-ejb.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/stax-tests/stax-ejb/stax-ejb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/stax-tests/stax-tests.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/stax-tests/stax-tests.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/stax-tests/stax-war/stax-war.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/stax-tests/stax-war/stax-war.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/system-database/sysdb-console-jetty/sysdb-console-jetty.iml" filepath="$PROJECT_DIR$/plugins/system-database/sysdb-console-jetty/sysdb-console-jetty.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/system-database/sysdb-console-tomcat/sysdb-console-tomcat.iml" filepath="$PROJECT_DIR$/plugins/system-database/sysdb-console-tomcat/sysdb-console-tomcat.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/system-database/sysdb-portlets/sysdb-portlets.iml" filepath="$PROJECT_DIR$/plugins/system-database/sysdb-portlets/sysdb-portlets.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/system-database/system-database (1) (org.apache.geronimo.plugins).iml" filepath="$PROJECT_DIR$/plugins/system-database/system-database (1) (org.apache.geronimo.plugins).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/system-database/system-database/system-database (2) (org.apache.geronimo.configs).iml" filepath="$PROJECT_DIR$/plugins/system-database/system-database/system-database (2) (org.apache.geronimo.configs).iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/web-testsuite/test-2.1-jsps/test-2.1-jsps.iml" filepath="$PROJECT_DIR$/testsuite/web-testsuite/test-2.1-jsps/test-2.1-jsps.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/web-testsuite/test-2.5-servlets/test-2.5-servlets.iml" filepath="$PROJECT_DIR$/testsuite/web-testsuite/test-2.5-servlets/test-2.5-servlets.iml" />
       <module fileurl="file://$PROJECT_DIR$/testsupport/test-deployment-j2ee_1.3/test-deployment-j2ee_1.3.iml" filepath="$PROJECT_DIR$/testsupport/test-deployment-j2ee_1.3/test-deployment-j2ee_1.3.iml" />
       <module fileurl="file://$PROJECT_DIR$/testsupport/test-deployment-j2ee_1.4/test-deployment-j2ee_1.4.iml" filepath="$PROJECT_DIR$/testsupport/test-deployment-j2ee_1.4/test-deployment-j2ee_1.4.iml" />
       <module fileurl="file://$PROJECT_DIR$/testsupport/test-deployment-javaee_5/test-deployment-javaee_5.iml" filepath="$PROJECT_DIR$/testsupport/test-deployment-javaee_5/test-deployment-javaee_5.iml" />
@@ -507,25 +274,12 @@
       <module fileurl="file://$PROJECT_DIR$/testsupport/test-deployment-j2ee_1.3/test-ejb-j2ee_1.3/test-ejb-j2ee_1.3.iml" filepath="$PROJECT_DIR$/testsupport/test-deployment-j2ee_1.3/test-ejb-j2ee_1.3/test-ejb-j2ee_1.3.iml" />
       <module fileurl="file://$PROJECT_DIR$/testsupport/test-deployment-j2ee_1.4/test-ejb-j2ee_1.4/test-ejb-j2ee_1.4.iml" filepath="$PROJECT_DIR$/testsupport/test-deployment-j2ee_1.4/test-ejb-j2ee_1.4/test-ejb-j2ee_1.4.iml" />
       <module fileurl="file://$PROJECT_DIR$/testsupport/test-deployment-javaee_5/test-ejb-javaee_5/test-ejb-javaee_5.iml" filepath="$PROJECT_DIR$/testsupport/test-deployment-javaee_5/test-ejb-javaee_5/test-ejb-javaee_5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/security-testsuite/test-generic-auth/test-generic-auth.iml" filepath="$PROJECT_DIR$/testsuite/security-testsuite/test-generic-auth/test-generic-auth.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/web-testsuite/test-jetty/test-jetty.iml" filepath="$PROJECT_DIR$/testsuite/web-testsuite/test-jetty/test-jetty.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/web-testsuite/test-myfaces/test-myfaces.iml" filepath="$PROJECT_DIR$/testsuite/web-testsuite/test-myfaces/test-myfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/testsupport/test-deployment-j2ee_1.3/test-rar-j2ee_1.3/test-rar-j2ee_1.3.iml" filepath="$PROJECT_DIR$/testsupport/test-deployment-j2ee_1.3/test-rar-j2ee_1.3/test-rar-j2ee_1.3.iml" />
       <module fileurl="file://$PROJECT_DIR$/testsupport/test-deployment-j2ee_1.4/test-rar-j2ee_1.4/test-rar-j2ee_1.4.iml" filepath="$PROJECT_DIR$/testsupport/test-deployment-j2ee_1.4/test-rar-j2ee_1.4/test-rar-j2ee_1.4.iml" />
       <module fileurl="file://$PROJECT_DIR$/testsupport/test-deployment-javaee_5/test-rar-javaee_5/test-rar-javaee_5.iml" filepath="$PROJECT_DIR$/testsupport/test-deployment-javaee_5/test-rar-javaee_5/test-rar-javaee_5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/security-testsuite/test-security/test-security.iml" filepath="$PROJECT_DIR$/testsuite/security-testsuite/test-security/test-security.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/security-testsuite/test-security-annotation-ejb/test-security-annotation-ejb.iml" filepath="$PROJECT_DIR$/testsuite/security-testsuite/test-security-annotation-ejb/test-security-annotation-ejb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/security-testsuite/test-security-basic-authentication/test-security-basic-authentication.iml" filepath="$PROJECT_DIR$/testsuite/security-testsuite/test-security-basic-authentication/test-security-basic-authentication.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/web-testsuite/test-tld/test-tld.iml" filepath="$PROJECT_DIR$/testsuite/web-testsuite/test-tld/test-tld.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/web-testsuite/test-tld/test-tld-jar/test-tld-jar.iml" filepath="$PROJECT_DIR$/testsuite/web-testsuite/test-tld/test-tld-jar/test-tld-jar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/web-testsuite/test-tld/test-tld-war/test-tld-war.iml" filepath="$PROJECT_DIR$/testsuite/web-testsuite/test-tld/test-tld-war/test-tld-war.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/web-testsuite/test-tomcat/test-tomcat.iml" filepath="$PROJECT_DIR$/testsuite/web-testsuite/test-tomcat/test-tomcat.iml" />
       <module fileurl="file://$PROJECT_DIR$/testsupport/test-deployment-j2ee_1.3/test-war-j2ee_1.3/test-war-j2ee_1.3.iml" filepath="$PROJECT_DIR$/testsupport/test-deployment-j2ee_1.3/test-war-j2ee_1.3/test-war-j2ee_1.3.iml" />
       <module fileurl="file://$PROJECT_DIR$/testsupport/test-deployment-j2ee_1.4/test-war-j2ee_1.4/test-war-j2ee_1.4.iml" filepath="$PROJECT_DIR$/testsupport/test-deployment-j2ee_1.4/test-war-j2ee_1.4/test-war-j2ee_1.4.iml" />
       <module fileurl="file://$PROJECT_DIR$/testsupport/test-deployment-javaee_5/test-war-javaee_5/test-war-javaee_5.iml" filepath="$PROJECT_DIR$/testsupport/test-deployment-javaee_5/test-war-javaee_5/test-war-javaee_5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/web-testsuite/test-web-forward/test-web-forward.iml" filepath="$PROJECT_DIR$/testsuite/web-testsuite/test-web-forward/test-web-forward.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/web-testsuite/test-web-references/test-web-references.iml" filepath="$PROJECT_DIR$/testsuite/web-testsuite/test-web-references/test-web-references.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/testsuite.iml" filepath="$PROJECT_DIR$/testsuite/testsuite.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/buildsupport/testsuite-maven-plugin/testsuite-maven-plugin.iml" filepath="$PROJECT_DIR$/framework/buildsupport/testsuite-maven-plugin/testsuite-maven-plugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/testsupport/testsupport.iml" filepath="$PROJECT_DIR$/testsupport/testsupport.iml" />
       <module fileurl="file://$PROJECT_DIR$/testsupport/testsupport-commands/testsupport-commands.iml" filepath="$PROJECT_DIR$/testsupport/testsupport-commands/testsupport-commands.iml" />
@@ -533,54 +287,25 @@
       <module fileurl="file://$PROJECT_DIR$/testsupport/testsupport-packaging/testsupport-packaging.iml" filepath="$PROJECT_DIR$/testsupport/testsupport-packaging/testsupport-packaging.iml" />
       <module fileurl="file://$PROJECT_DIR$/testsupport/testsupport-selenium/testsupport-selenium.iml" filepath="$PROJECT_DIR$/testsupport/testsupport-selenium/testsupport-selenium.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/tomcat/tomcat.iml" filepath="$PROJECT_DIR$/plugins/tomcat/tomcat.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/tomcat/tomcat7/tomcat7.iml" filepath="$PROJECT_DIR$/plugins/tomcat/tomcat7/tomcat7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/tomcat/tomcat7-clustering-builder-wadi/tomcat7-clustering-builder-wadi.iml" filepath="$PROJECT_DIR$/plugins/tomcat/tomcat7-clustering-builder-wadi/tomcat7-clustering-builder-wadi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/tomcat/tomcat7-clustering-wadi/tomcat7-clustering-wadi.iml" filepath="$PROJECT_DIR$/plugins/tomcat/tomcat7-clustering-wadi/tomcat7-clustering-wadi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/tomcat/tomcat7-deployer/tomcat7-deployer.iml" filepath="$PROJECT_DIR$/plugins/tomcat/tomcat7-deployer/tomcat7-deployer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/tomcat/tomcat7-no-ha/tomcat7-no-ha.iml" filepath="$PROJECT_DIR$/plugins/tomcat/tomcat7-no-ha/tomcat7-no-ha.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/connector-1_6/transaction-1_6/transaction-1_6.iml" filepath="$PROJECT_DIR$/plugins/connector-1_6/transaction-1_6/transaction-1_6.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/uddi/uddi.iml" filepath="$PROJECT_DIR$/plugins/uddi/uddi.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/uddi/uddi-db/uddi-db.iml" filepath="$PROJECT_DIR$/plugins/uddi/uddi-db/uddi-db.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/uddi/uddi-jetty/uddi-jetty.iml" filepath="$PROJECT_DIR$/plugins/uddi/uddi-jetty/uddi-jetty.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/uddi/uddi-jetty-server/uddi-jetty-server.iml" filepath="$PROJECT_DIR$/plugins/uddi/uddi-jetty-server/uddi-jetty-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/uddi/uddi-tomcat/uddi-tomcat.iml" filepath="$PROJECT_DIR$/plugins/uddi/uddi-tomcat/uddi-tomcat.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/uddi/uddi-war-repackage/uddi-war-repackage.iml" filepath="$PROJECT_DIR$/plugins/uddi/uddi-war-repackage/uddi-war-repackage.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/deployment-testsuite/url-binding-tests/url-binding-tests.iml" filepath="$PROJECT_DIR$/testsuite/deployment-testsuite/url-binding-tests/url-binding-tests.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/wab/wab.iml" filepath="$PROJECT_DIR$/plugins/wab/wab.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugingroups/wab-jetty/wab-jetty.iml" filepath="$PROJECT_DIR$/plugingroups/wab-jetty/wab-jetty.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugingroups/wab-tomcat/wab-tomcat.iml" filepath="$PROJECT_DIR$/plugingroups/wab-tomcat/wab-tomcat.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/clustering/wadi-clustering/wadi-clustering.iml" filepath="$PROJECT_DIR$/plugins/clustering/wadi-clustering/wadi-clustering.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/wab/web-extender/web-extender.iml" filepath="$PROJECT_DIR$/plugins/wab/web-extender/web-extender.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/web-testsuite/test-web-forward/web-forward-ear/web-forward-ear.iml" filepath="$PROJECT_DIR$/testsuite/web-testsuite/test-web-forward/web-forward-ear/web-forward-ear.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/web-testsuite/test-web-forward/web-forward-war-1/web-forward-war-1.iml" filepath="$PROJECT_DIR$/testsuite/web-testsuite/test-web-forward/web-forward-war-1/web-forward-war-1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/web-testsuite/test-web-forward/web-forward-war-2/web-forward-war-2.iml" filepath="$PROJECT_DIR$/testsuite/web-testsuite/test-web-forward/web-forward-war-2/web-forward-war-2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/wab/web-jetty-server/web-jetty-server.iml" filepath="$PROJECT_DIR$/plugins/wab/web-jetty-server/web-jetty-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/web-testsuite/test-web-references/web-references-ear/web-references-ear.iml" filepath="$PROJECT_DIR$/testsuite/web-testsuite/test-web-references/web-references-ear/web-references-ear.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/web-testsuite/test-web-references/web-references-ejb/web-references-ejb.iml" filepath="$PROJECT_DIR$/testsuite/web-testsuite/test-web-references/web-references-ejb/web-references-ejb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/web-testsuite/test-web-references/web-references-war/web-references-war.iml" filepath="$PROJECT_DIR$/testsuite/web-testsuite/test-web-references/web-references-war/web-references-war.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/web-testsuite/web-testsuite.iml" filepath="$PROJECT_DIR$/testsuite/web-testsuite/web-testsuite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/wab/web-tomcat-server/web-tomcat-server.iml" filepath="$PROJECT_DIR$/plugins/wab/web-tomcat-server/web-tomcat-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/webbean1.0-test/webbean-ejb-test/webbean-ejb-test.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/webbean1.0-test/webbean-ejb-test/webbean-ejb-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/webbean1.0-test/webbean-jpa-test/webbean-jpa-test.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/webbean1.0-test/webbean-jpa-test/webbean-jpa-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/webbean1.0-test/webbean-servlet-test/webbean-servlet-test.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/webbean1.0-test/webbean-servlet-test/webbean-servlet-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/javaee6-testsuite/webbean1.0-test/webbean1.0-test.iml" filepath="$PROJECT_DIR$/testsuite/javaee6-testsuite/webbean1.0-test/webbean1.0-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/webservices/webservices.iml" filepath="$PROJECT_DIR$/plugins/webservices/webservices.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugingroups/webservices-axis2/webservices-axis2.iml" filepath="$PROJECT_DIR$/plugingroups/webservices-axis2/webservices-axis2.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/webservices/webservices-common/webservices-common.iml" filepath="$PROJECT_DIR$/plugins/webservices/webservices-common/webservices-common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/webservices-testsuite.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/webservices-testsuite.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/welcome/welcome.iml" filepath="$PROJECT_DIR$/plugins/welcome/welcome.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/welcome/welcome-jetty/welcome-jetty.iml" filepath="$PROJECT_DIR$/plugins/welcome/welcome-jetty/welcome-jetty.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/welcome/welcome-jetty-server/welcome-jetty-server.iml" filepath="$PROJECT_DIR$/plugins/welcome/welcome-jetty-server/welcome-jetty-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/welcome/welcome-tomcat/welcome-tomcat.iml" filepath="$PROJECT_DIR$/plugins/welcome/welcome-tomcat/welcome-tomcat.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/welcome/welcome-tomcat-server/welcome-tomcat-server.iml" filepath="$PROJECT_DIR$/plugins/welcome/welcome-tomcat-server/welcome-tomcat-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/wink/wink (1) (org.apache.geronimo.plugins).iml" filepath="$PROJECT_DIR$/plugins/wink/wink (1) (org.apache.geronimo.plugins).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/wink/wink/wink (2) (org.apache.geronimo.configs).iml" filepath="$PROJECT_DIR$/plugins/wink/wink/wink (2) (org.apache.geronimo.configs).iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/wink/wink-deployer/wink-deployer.iml" filepath="$PROJECT_DIR$/plugins/wink/wink-deployer/wink-deployer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/wink/wink-tomcat-server/wink-tomcat-server.iml" filepath="$PROJECT_DIR$/plugins/wink/wink-tomcat-server/wink-tomcat-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-wsa-tests/wsa-ear/wsa-ear.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-wsa-tests/wsa-ear/wsa-ear.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-wsa-tests/wsa-ejb/wsa-ejb.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-wsa-tests/wsa-ejb/wsa-ejb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-wsa-tests/wsa-test-war/wsa-test-war.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-wsa-tests/wsa-test-war/wsa-test-war.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-wsa-tests/wsa-war/wsa-war.iml" filepath="$PROJECT_DIR$/testsuite/webservices-testsuite/jaxws-wsa-tests/wsa-war/wsa-war.iml" />
     </modules>
   </component>
 </project>

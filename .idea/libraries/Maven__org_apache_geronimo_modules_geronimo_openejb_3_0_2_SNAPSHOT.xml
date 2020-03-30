@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.geronimo.modules:geronimo-openejb:3.0.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/geronimo/modules/geronimo-openejb/3.0.2-SNAPSHOT/geronimo-openejb-3.0.2-20130716.223153-10.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/geronimo/modules/geronimo-openejb/3.0.2-SNAPSHOT/geronimo-openejb-3.0.2-20130716.223153-10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/geronimo/modules/geronimo-openejb/3.0.2-SNAPSHOT/geronimo-openejb-3.0.2-20130716.223153-10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
